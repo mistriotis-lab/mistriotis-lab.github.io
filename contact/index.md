@@ -34,7 +34,7 @@ We are located on the 1st floor of the _ building.
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Auburn+University+Department+of+Chemical+Engineering/@32.6054842,-85.4835017,321m/data=!3m1!1e3!4m5!3m4!1s0x888cf31c9dd90d99:0xc9c6a8d52b04ca1a!8m2!3d32.6050944!4d-85.4838409?hl=en"
+  link="https://www.google.com/maps/place/Auburn+University+Department+of+Chemical+Engineering/@32.6049195,-85.4852459,1071m/data=!3m1!1e3!4m5!3m4!1s0x888cf31c9dd90d99:0xc9c6a8d52b04ca1a!8m2!3d32.6050944!4d-85.4838409?hl=en"
   style="button"
 %}
 {:.center}
