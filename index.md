@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Under construction
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+This is the [website](https://mistriotis-lab.github.io/) of Mistriotis Laboratory at Auburn University.
   
 {%
   include link.html
