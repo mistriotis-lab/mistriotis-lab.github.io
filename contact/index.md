@@ -34,7 +34,7 @@ We are located on the 1st floor of the _ building.
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Auburn+University+Department+of+Chemical+Engineering/@32.6054842,-85.4835017,321m/data=!3m1!1e3!4m5!3m4!1s0x888cf31c9dd90d99:0xc9c6a8d52b04ca1a!8m2!3d32.6050944!4d-85.4838409?hl=en"
   style="button"
 %}
 {:.center}
@@ -43,15 +43,15 @@ We are located on the 1st floor of the _ building.
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+149 Ross Hall  
+Auburn AL, 36830 
+United States of America
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/auburn_campus.jpg"
   caption="Auburn University"
 %}
 {% endcapture %}
