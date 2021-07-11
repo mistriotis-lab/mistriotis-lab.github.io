@@ -44,7 +44,7 @@ We are located on the 1st floor of the _ building.
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 149 Ross Hall  
-Auburn AL, 36830 
+Auburn AL, 36830   
 United States of America
 {:.center}
 
