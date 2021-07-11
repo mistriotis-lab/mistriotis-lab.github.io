@@ -2,7 +2,7 @@
 
 # site properties and page defaults
 title: Mistriotis Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: Webiste of Mistriotis Laboratory at Auburn University.
 logo: images/auburn_logo.png
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,10 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: pmistriotis@auburn.edu
+  google-scholar: Panagiotis Mistriotis
+  github: mistriotis-lab
+  twitter: mistrigr
 
 # automatic citations
 auto-cite:
