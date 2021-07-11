@@ -7,25 +7,25 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Chemical Engineering](), at the [Samuel Gin College of Engineering]().
+We are located on the 1st floor of the _ building.
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="pmistriotis@auburn.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="pmistriotis@auburn.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(555) 555-5555"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-555-555-5555"
   style="button"
 %}
 {%
@@ -52,14 +52,14 @@ Canada
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  caption="Auburn University"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/rosshall.jpeg"
+  caption="Department of Chemical Engineering"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
