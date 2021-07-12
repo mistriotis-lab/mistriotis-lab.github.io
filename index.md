@@ -10,7 +10,7 @@ This is the [website](https://mistriotis-lab.github.io/) of Mistriotis Laborator
   include link.html
   type=""
   icon=""
-  text="See Auburn University website"
+  text="See Auburn University's website"
   link="https://auburn.edu/"
   style="button"
 %}
