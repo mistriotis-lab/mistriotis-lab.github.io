@@ -88,7 +88,7 @@ USA
 
 - Auburn is near many major cities: 60 miles from Montgomery, AL, 30 miles from Columbus, GA, and 100 miles from Atlanta, GA. The beach (Gulf of Mexico) is aprroximately 200 miles away.
 
-- Auburn University has its own airport, the [Auburn University Regional Airport](https://en.wikipedia.org/wiki/Auburn_University_Regional_Airport)!
+- Auburn University has its own airport, the [Auburn University Regional Airport](https://en.wikipedia.org/wiki/Auburn_University_Regional_Airport).
 
 
 {:.center}
