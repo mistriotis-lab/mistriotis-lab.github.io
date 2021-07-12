@@ -69,7 +69,7 @@ USA
 
 Auburn University is a public research university in Auburn, Alabama. It has more than 30,000 undergraduate and graduate students and 1,330 faculty members and is classified as an "R1: Doctoral Universities - Very High Research Activity". The 2020 edition of U.S. News & World Report ranks Auburn as tied for the 97th best national university overall in the U.S., tied for 40th among public universities. The Samuel Ginn College of Engineering, ranks in the nation's largest 20 engineering programs in terms of numbers of engineers graduating annually. In 2020, the college ranked 67th among all engineering programs. The Department of Chemical Engineering, is ranking consistently among the top 50 in the nation.
 
-[![Alternate Text]({https://www.youtube.com/watch?v=fc5nLS5PZNQ&ab_channel=JackCook})]({https://www.youtube.com/watch?v=fc5nLS5PZNQ&ab_channel=JackCook} "Link Title")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fc5nLS5PZNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {:.center}
 
