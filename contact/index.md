@@ -86,5 +86,7 @@ USA
 
 - The last foothill of the [Appalachian Mountains](https://en.wikipedia.org/wiki/Appalachian_Mountains) lies in [Chewacla State Park](https://www.alapark.com/parks/chewacla-state-park) in southern Auburn.
 
+- Auburn is near many major cities: 60 miles from Montgomery, AL, 30 miles from Columbus, GA, and 100 miles from Atlanta, GA. The Gulf of Mexico is aprroximately 200 miles away.
+
 
 {:.center}
