@@ -23,9 +23,9 @@ We are located on the 1st floor of the Wilmore Laboratories.
   include link.html
   type="phone"
   icon=""
-  text="(555) 555-5555"
+  text="(334) 844-5457"
   tooltip=""
-  link="+1-555-555-5555"
+  link="+1-334-844-5457"
   style="button"
 %}
 {%
