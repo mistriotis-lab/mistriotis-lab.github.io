@@ -8,7 +8,7 @@ This is the [website](https://mistriotis-lab.github.io/) of Mistriotis Laborator
  
 {%
   include link.html
-  type="auburn"
+  type=""
   icon=""
   text="See Auburn University website"
   link="https://auburn.edu/"
@@ -16,18 +16,10 @@ This is the [website](https://mistriotis-lab.github.io/) of Mistriotis Laborator
 %}
 {%
   include link.html
-  type="github"
+  type=""
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  text="See our Department's website"
+  link="https://www.eng.auburn.edu/chen/"
   style="button"
 %}
 {:.center}
