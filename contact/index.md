@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Chemical Engineering](https://www.eng.auburn.edu/chen/), at the [Samuel Gin College of Engineering](https://eng.auburn.edu/).
-We are located on the 1st floor of the _ building.
+Our lab is part of the [Department of Chemical Engineering](https://www.eng.auburn.edu/chen/), at the [Samuel Gin College of Engineering, Auburn University](https://eng.auburn.edu/).
+We are located on the 1st floor of the [] building.
 
 {%
   include link.html
