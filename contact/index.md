@@ -84,4 +84,7 @@ USA
 
 - Auburn University Tigers football team stadium, [Jordan-Hare](https://en.wikipedia.org/wiki/Jordan%E2%80%93Hare_Stadium) is the 10th largest is NCAA with a current seating capacity of 87,451 making it one of the most intimidating places to play.
 
+- The last foothill of the [Appalachian Mountains](https://en.wikipedia.org/wiki/Appalachian_Mountains) lies in [Chewacla State Park](https://www.alapark.com/parks/chewacla-state-park) in southern Auburn.
+
+
 {:.center}
