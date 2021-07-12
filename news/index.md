@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 4
-  tooltip: news and announcements
+  tooltip: News and announcements
 ---
 
 # <i class="fas fa-feather-alt"></i>News
