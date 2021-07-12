@@ -36,10 +36,10 @@ header {
 
   .nav_row {
     @include inline-flex-center;
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: $regular;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
 
     &:hover .link {
       opacity: 0.25;
@@ -62,7 +62,7 @@ header {
 
     .logo_row,
     .nav_row {
-      width: 90%;
+      width: 85%;
     }
   }
 
