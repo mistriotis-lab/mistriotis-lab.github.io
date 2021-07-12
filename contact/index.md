@@ -43,8 +43,8 @@ We are located on the 1st floor of the Wilmore Laboratories.
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-149 Ross Hall  
-Auburn AL, 36830   
+212 Ross Hall  
+Auburn AL, 36849   
 United States of America
 {:.center}
 
