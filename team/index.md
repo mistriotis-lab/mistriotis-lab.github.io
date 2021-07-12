@@ -59,7 +59,7 @@ Our work is made possible by funding from different organizations.
   link1="https://www.aabb.org/national-blood-foundation"
   tooltip1="National Blood Foundation"
 
-  image2="images/auburn.png"
+  image2="images/auburn2.png"
   link2="https://cws.auburn.edu/ovpr"
   tooltip2="Auburn University"
 %}
