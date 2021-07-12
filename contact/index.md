@@ -78,7 +78,7 @@ USA
 
 - In 2021, Auburn was ranked #10 by The [Princeton Review's](https://www.princetonreview.com/college-rankings?rankings=happiest-students) list of happiest students on college campuses thanks in part to its wide variety of campus activities and events.
 
-- Auburn University's sports teams known as the **Tigers**, have won a total of 21 intercollegiate national championships (including 17 NCAA Championships).
+- Auburn University's sports teams known as the **Tigers**, have won a total of [21 intercollegiate national championships](https://en.wikipedia.org/wiki/Auburn_University#Athletics) (including 17 NCAA Championships).
 
 - Some of the most prominent Auburn's alumni include Apple's CEO [Tim Cook](https://en.wikipedia.org/wiki/Tim_Cook), Academy Award winner [Octavia Spencer](https://en.wikipedia.org/wiki/Octavia_Spencer), Wikipedia Co-Founder [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales), NBA star [Charles Barkely](https://en.wikipedia.org/wiki/Charles_Barkley) and NASA astronaut [Jim Voss](https://en.wikipedia.org/wiki/James_S._Voss).
 
