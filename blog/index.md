@@ -23,5 +23,3 @@ nav:
 {:.center}
 
 <a href="https://twitter.com/mistrigr?lang=en" class="twitter-follow-button" data-show-count="false">Follow @mistrigr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/mistrigr?lang=en" class="twitter-mention-button" data-show-count="false">Tweet to @mistrigr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
