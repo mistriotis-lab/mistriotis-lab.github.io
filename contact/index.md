@@ -45,7 +45,7 @@ We are located on the 1st floor of the Wilmore Laboratories.
 
 212 Ross Hall  
 Auburn AL, 36849   
-United States of America
+USA
 {:.center}
 
 {% capture col1 %}
