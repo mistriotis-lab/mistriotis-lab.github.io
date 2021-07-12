@@ -2,7 +2,6 @@
 name: Anne Chovie
 image: images/member.jpg
 role: phd
-group: alum
 aliases:
   - A. Chovie
   - A Chovie
