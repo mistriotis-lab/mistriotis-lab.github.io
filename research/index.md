@@ -1,7 +1,7 @@
 ---
 title: Research
 nav:
-  order: 2
+  order: 1
   tooltip: Published works
 ---
 
@@ -19,7 +19,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {% include search-info.html %}
 
 {% include section.html %}
-
 
 ## Funding
 
