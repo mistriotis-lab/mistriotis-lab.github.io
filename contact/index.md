@@ -82,4 +82,6 @@ USA
 
 - Some of the most prominent Auburn's alumni include Apple's CEO [Tim Cook](https://en.wikipedia.org/wiki/Tim_Cook), Academy Award winner [Octavia Spencer](https://en.wikipedia.org/wiki/Octavia_Spencer), Wikipedia Co-Founder [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales), NBA star [Charles Barkely](https://en.wikipedia.org/wiki/Charles_Barkley) and NASA astronaut [Jim Voss](https://en.wikipedia.org/wiki/James_S._Voss).
 
+- Auburn University Tigers football team stadium, [Jordan-Hare](https://en.wikipedia.org/wiki/Jordan%E2%80%93Hare_Stadium) is the 10th largest is NCAA with a current seating capacity of 87,451 making it one of the most intimidating places to play.
+
 {:.center}
