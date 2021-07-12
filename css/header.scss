@@ -10,7 +10,7 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  padding: px;
+  padding: 30px;
   color: $white;
   background: $gray-800;
   box-shadow: $shadow;
@@ -23,8 +23,8 @@ header {
     @include inline-flex-center;
 
     .logo {
-      max-width: 90%;
-      height: 60px;
+      max-width: 120%;
+      height: 70px;
     }
 
     .logo_text {
