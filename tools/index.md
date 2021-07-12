@@ -2,7 +2,7 @@
 title: Tools
 nav:
   order: 2
-  tooltip: facilities and more
+  tooltip: Facilities and more
 ---
 
 # <i class="fas fa-tools"></i>Tools
