@@ -73,3 +73,9 @@ USA
 
 {:.center}
 
+{% include section.html %}
+### Fun Facts
+
+- In 2021, Auburn was ranked #10 by The [Princeton Review's](https://www.princetonreview.com/college-rankings?rankings=happiest-students) list of happiest students on college campuses thanks in part to its wide variety of campus activities and events.
+
+{:.center}
