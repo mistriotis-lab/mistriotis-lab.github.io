@@ -65,7 +65,7 @@ USA
 {% include two-col.html col1=col1 col2=col2 %}
 
 {% include section.html %}
-### Auburn University
+### About Auburn University
 
 [Auburn University](https://auburn.edu/) is a public research university in Auburn, Alabama. It has more than 30,000 undergraduate and graduate students and 1,330 faculty members and is classified as an ["R1: Doctoral Universities - Very High Research Activity"](https://en.wikipedia.org/wiki/Research_I_university). The 2021 edition of [U.S. News & World Report](https://www.usnews.com/best-colleges/rankings/national-universities?schoolName=auburn) ranks Auburn as tied for the 97th best national university overall in the U.S., [tied for 40th](https://www.usnews.com/best-colleges/rankings/national-universities/top-public) among public universities. The [Samuel Ginn College of Engineering](https://eng.auburn.edu/), ranks in the nation's largest 20 engineering programs in terms of numbers of engineers graduating annually. In 2020, the college ranked 67th among all engineering programs. The [Department of Chemical Engineering](https://www.eng.auburn.edu/chen/), is [ranking](https://www.usnews.com/best-graduate-schools/top-engineering-schools/chemical-engineering-rankings) consistently among the top 50 in the nation.
 
