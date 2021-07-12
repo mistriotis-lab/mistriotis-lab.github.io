@@ -17,3 +17,25 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {% include search-box.html %}
 
 {% include search-info.html %}
+
+{% include section.html %}
+
+
+## Funding
+
+Our work is made possible by funding from different organizations.
+{:.center}
+
+{%
+  include gallery.html
+  style="square"
+
+  image1="images/nbf.png"
+  link1="https://www.aabb.org/national-blood-foundation"
+  tooltip1="National Blood Foundation"
+
+  image2="images/auburn2.png"
+  link2="https://cws.auburn.edu/ovpr"
+  tooltip2="Auburn University"
+%}
+
