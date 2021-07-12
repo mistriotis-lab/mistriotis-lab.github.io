@@ -23,20 +23,20 @@ header {
     @include inline-flex-center;
 
     .logo {
-      max-width: 200%;
-      height: 150px;
+      max-width: 150%;
+      height: 90px;
     }
 
     .logo_text {
-      margin: 20px;
-      font-size: 2.5rem;
+      margin: 50px;
+      font-size: 1.5rem;
       text-align: center;
     }
   }
 
   .nav_row {
     @include inline-flex-center;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-weight: $regular;
     text-transform: uppercase;
     letter-spacing: 1px;
