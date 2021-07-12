@@ -1,18 +1,14 @@
 ---
-name: Upton O. Goode
+name: Panagiotis Mistriotis
 image: images/member.jpg
-description: Bone Investigator
+description: Principle Investigator
 role: pi
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - P. Mistriotis
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  orcid: 0000-0002-8069-3278
+  email: pmistriotis@auburn.edu
+  twitter: pmistri
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Panagiotis Mistriotis is the Principle Investigator of the Mistriotis Lab at Auburn University.
