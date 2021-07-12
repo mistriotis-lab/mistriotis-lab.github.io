@@ -52,14 +52,14 @@ USA
 {%
   include figure.html
   image="images/auburn_campus.jpg"
-  caption="Auburn University"
+  caption="Samford Hall, located on College Street in Auburn, houses the University's administration."
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/rosshall.jpeg"
-  caption="Department of Chemical Engineering"
+  caption="Ross Hall, home to Auburn's Department of Chemical Engineering"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
@@ -67,7 +67,18 @@ USA
 {% include section.html %}
 ### Auburn University
 
-link="https://www.youtube.com/watch?v=fc5nLS5PZNQ&ab_channel=JackCook"
-%}
+Auburn University is a public research university in Auburn, Alabama. 
+
+It has more than 30,000 undergraduate and graduate students and 1,330 faculty members and is classified as an "R1: Doctoral Universities - Very High Research Activity".
+
+The 2020 edition of U.S. News & World Report ranks Auburn as tied for the 97th best national university overall in the U.S., tied for 40th among public universities.
+
+The Samuel Ginn College of Engineering, ranks in the nation's largest 20 engineering programs in terms of numbers of engineers graduating annually.
+In 2020, the college ranked 67th among all engineering programs.
+
+The Department of Chemical Engineering, is ranking consistently among the top 50 in the nation (U.S. News & World Report).
+
+[![Alt text](https://www.youtube.com/watch?v=fc5nLS5PZNQ&ab_channel=JackCook)
+
 {:.center}
 
