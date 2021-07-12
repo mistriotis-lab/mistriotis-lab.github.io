@@ -22,12 +22,6 @@ nav:
   component="portrait"
   filters="role: phd"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
