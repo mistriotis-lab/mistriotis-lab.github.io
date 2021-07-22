@@ -71,9 +71,6 @@ USA
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We conquered this past year with a spirit that is not afraid. <br><br>Thank you, <a href="https://twitter.com/hashtag/AuburnFamily?src=hash&amp;ref_src=twsrc%5Etfw">#AuburnFamily</a>. <a href="https://t.co/ymrHiCvXvm">pic.twitter.com/ymrHiCvXvm</a></p>&mdash; Auburn University (@AuburnU) <a href="https://twitter.com/AuburnU/status/1387523654842421249?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fc5nLS5PZNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 {:.center}
 
 {% include section.html %}
