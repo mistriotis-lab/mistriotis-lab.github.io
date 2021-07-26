@@ -33,10 +33,9 @@ This is the [website](https://mistriotis-lab.github.io/) of Mistriotis Laborator
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research lies at the interface of engineering, biophysics, cell & molecular biology and biochemistry with applications in aging, vascular diseases and cancer metastasis.
 
-[See what we've published &nbsp;→](research)
+[Learn more about our research &nbsp;→](research)
 {:.center}
 {% endcapture %}
 
@@ -49,8 +48,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our lab is part of the Department of Chemical Engineering, at the Samuel Gin College of Engineering.
 
 [See our resources &nbsp;→](resources)
 {:.center}
@@ -65,7 +63,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Learn more about the members of Mistriotis Lab.
 
 [Meet our team &nbsp;→](team)
 {:.center}
