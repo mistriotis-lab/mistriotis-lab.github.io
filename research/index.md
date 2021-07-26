@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our research lies at the interface of engineering biophysics, cell and molecular biology and biochemistry with applications in aging, vascular diseases and cancer metastasis. Our key contributions are: 1) the development of a method to reverse stem cell aging for vascular rejuvenation; 2) the discovery of intracellular mechanisms regulating cell mechanosensing in confinement; 3) the development of a reporter-based system for quantifying gene and pathway activation.
 
 {% include section.html %}
 
