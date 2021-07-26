@@ -1,17 +1,14 @@
 ---
-name: Felix Cited
-image: images/member.jpg
+name: Farshad Amiri
+image: images/farshad.jpg
 role: phd
 group: alum
 aliases:
-  - F. Cited
-  - F Cited
+  - F. Amiri
 links:
-  home-page: felixcited.com
   email: felix@cited.com
-  twitter: felixcited
+  linkedin: farshad-amiri
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Farshad Amiri is a graduate student in the Department of Chemical Engineering at Auburn University. He received his Bachelor's and Master's degree in chemical engineering from the University of Tehran, Iran. Farshad joined the Mistriotis' lab in January of 2020 and is interested in combining engineering tools and concepts with advanced cell and molecular biology techniques to study cell migration and aging.
+
