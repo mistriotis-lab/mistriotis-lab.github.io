@@ -6,7 +6,7 @@ group: alum
 aliases:
   - F. Amiri
 links:
-  email: felix@cited.com
+  email: fza0023@auburn.edu
   linkedin: farshad-amiri-4469b2202
 ---
 
