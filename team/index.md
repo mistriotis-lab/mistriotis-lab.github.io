@@ -32,7 +32,7 @@ nav:
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-If you want to join the team, please email Dr. Mistriotis.
+If you are interested in joining the team, please contact Dr. Mistriotis via email.
 
 {%
   include link.html
