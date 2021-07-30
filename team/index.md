@@ -16,6 +16,9 @@ nav:
   component="portrait"
   filters="role: pi"
 %}
+{:.center}
+{% include section.html %}
+
 {%
   include list.html
   data="members"
