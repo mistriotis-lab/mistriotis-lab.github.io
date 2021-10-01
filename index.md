@@ -26,7 +26,7 @@ This is the [website](https://mistriotis-lab.github.io/) of Mistriotis Laborator
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/Group-photo.jpg" %}
 
 {% include section.html %}
 
