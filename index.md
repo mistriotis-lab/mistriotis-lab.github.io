@@ -56,7 +56,7 @@ Our lab is part of the Department of Chemical Engineering, at the Samuel Gin Col
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/wilmore.jpg"
   link="resources"
   headline="Our Resources"
   text=text
