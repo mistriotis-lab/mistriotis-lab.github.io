@@ -11,12 +11,6 @@ Our research lies at the interface of engineering biophysics, cell and molecular
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
 ## Funding
 
 Our work is made possible by funding from different organizations.
