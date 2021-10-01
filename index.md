@@ -71,7 +71,7 @@ Learn more about the members of Mistriotis Lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Group-photo.jpg"
   link="team"
   headline="Our Team"
   text=text
