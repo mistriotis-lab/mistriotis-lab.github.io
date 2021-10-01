@@ -4,7 +4,7 @@ title: Home
 
 # Under construction
 
-This is the [website](https://mistriotis-lab.github.io/) of Mistriotis Laboratory at Auburn University.
+Welcome to the website of Mistriotis Laboratory at Auburn University. The website is under construction.
  
 {%
   include link.html
