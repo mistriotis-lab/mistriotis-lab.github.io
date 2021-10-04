@@ -4,7 +4,6 @@ title: Home
 
 # Under construction 🚧
 
-{% include section.html %}
 
 Welcome to the website of Mistriotis Laboratory at Auburn University. The website is under construction.
  
