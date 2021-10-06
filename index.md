@@ -87,7 +87,7 @@ Check out the latest news from the Mistrotis Lab.
 
 {%
   include feature.html
-  image="images/news.jpg"
+  image="images/auburn2.png"
   link="news"
   headline="Our News"
   text=text
