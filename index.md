@@ -48,6 +48,8 @@ Our research lies at the interface of engineering, biophysics, cell & molecular 
   text=text
 %}
 
+{% include section.html %}
+
 {% capture text %}
 Our lab is part of the Department of Chemical Engineering, at the Samuel Gin College of Engineering.
 
@@ -63,6 +65,8 @@ Our lab is part of the Department of Chemical Engineering, at the Samuel Gin Col
   text=text
 %}
 
+{% include section.html %}
+
 {% capture text %}
 Learn more about the members of Mistriotis Lab.
 
@@ -77,6 +81,8 @@ Learn more about the members of Mistriotis Lab.
   headline="Our Team"
   text=text
 %}
+
+{% include section.html %}
 
 {% capture text %}
 Check out the latest news from the Mistrotis Lab.
