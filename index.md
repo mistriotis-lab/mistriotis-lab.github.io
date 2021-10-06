@@ -77,3 +77,19 @@ Learn more about the members of Mistriotis Lab.
   headline="Our Team"
   text=text
 %}
+
+{% capture text %}
+Check out the latest news from the Mistrotis Lab.
+
+[News &nbsp;→](news)
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/auburn_campus.jpg"
+  link="news"
+  headline="Our News"
+  text=text
+%}
+
