@@ -37,12 +37,4 @@ nav:
 
 The Mistriotis Lab is always looking for qualified Ph.D. candidates. Competitive candidates with a strong academic performance, creativity, and passion are encouraged to apply. For program information and application, click [here](https://eng.auburn.edu/chen/academics/graduate/index.html).
 
-{%
-  include link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="join"
-  style="button"
-%}
-{:.center}
 
