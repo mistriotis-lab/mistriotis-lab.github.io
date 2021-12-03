@@ -14,6 +14,7 @@ Our research lies at the interface of engineering biophysics, cell and molecular
 ## Funding
 
 Our work is made possible by funding from different foundations, including the [National Blood Foundation](https://www.aabb.org/national-blood-foundation), the [Breast Cancer Research Foundation of Alabama](https://www.bcrfa.org/) and [Auburn University](https://cws.auburn.edu/ovpr).
+
 {:.center}
 
 {%
