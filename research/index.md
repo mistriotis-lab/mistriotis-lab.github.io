@@ -19,34 +19,38 @@ Our work is made possible by funding from different foundations, including the [
 
 {:.center}
 
+{% capture col1 %}
 {%
-  include gallery.html
-  style="square"
-
-  image1="images/nbf.png"
-  link1="https://www.aabb.org/national-blood-foundation"
-  tooltip1="National Blood Foundation"
-  
-  image2="images/BCRFA.png"
-  link2="https://www.bcrfa.org/"
-  tooltip2="Breast Cancer Research Foundation of Alabama"
-
+  include figure.html
+  image="images/nbf.png"
+  width="100px"
 %}
+{% endcapture %}
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/BCRFA.png"
+  width="100px"
+%}
+{% endcapture %}
+{% include two-col.html col1=col1 col2=col2 %}
 
 {:.center}
 
+{% capture col1 %}
 {%
-  include gallery.html
-  style="square"
-  
-  image1="images/AHA.jpg"
-  link1="https://www.heart.org/"
-  tooltip1="American Heart Association"
-  
-  image2="images/auburn2.png"
-  link2="https://cws.auburn.edu/ovpr"
-  tooltip2="Auburn University" 
-
+  include figure.html
+  image="images/AHA.jpg"
+  width="100px"
 %}
+{% endcapture %}
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/auburn2.png"
+  width="100px"
+%}
+{% endcapture %}
+{% include two-col.html col1=col1 col2=col2 %}
 
 
