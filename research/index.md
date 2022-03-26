@@ -41,7 +41,6 @@ Our work is made possible by funding from different foundations, including the [
 
 {%
   include gallery.html
-  style="square"
 
   image4="images/auburn2.png"
   link4="https://cws.auburn.edu/ovpr"
