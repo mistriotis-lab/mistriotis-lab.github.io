@@ -30,10 +30,6 @@ Our work is made possible by funding from different foundations, including the [
   image2="images/BCRFA.png"
   link2="https://www.bcrfa.org/"
   tooltip2="Breast Cancer Research Foundation of Alabama"
-  
-  image3="images/AHA.jpg"
-  link3="https://www.heart.org/"
-  tooltip3="American Heart Association"
 
 %}
 
@@ -41,10 +37,16 @@ Our work is made possible by funding from different foundations, including the [
 
 {%
   include gallery.html
-
-  image4="images/auburn2.png"
-  link4="https://cws.auburn.edu/ovpr"
-  tooltip4="Auburn University"
+  style="square"
   
+  image1="images/AHA.jpg"
+  link1="https://www.heart.org/"
+  tooltip1="American Heart Association"
+  
+  image2="images/auburn2.png"
+  link2="https://cws.auburn.edu/ovpr"
+  tooltip2="Auburn University" 
+
 %}
+
 
