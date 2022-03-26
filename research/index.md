@@ -17,9 +17,6 @@ Our work is made possible by funding from different foundations, including the [
 
 {:.center}
 
-
-##
-
 {%
   include gallery.html
   style="square"
