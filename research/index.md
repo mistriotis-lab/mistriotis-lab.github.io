@@ -33,10 +33,17 @@ Our work is made possible by funding from different foundations, including the [
   link3="https://www.heart.org/"
   tooltip3="American Heart Association"
 
+%}
+
+{:.center}
+
+{%
+  include gallery.html
+  style="square"
+
   image4="images/auburn2.png"
   link4="https://cws.auburn.edu/ovpr"
   tooltip4="Auburn University"
-  
   
 %}
 
