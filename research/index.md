@@ -40,14 +40,14 @@ Our work is made possible by funding from different foundations, including the [
 {% capture col1 %}
 {%
   include figure.html
-  image="images/AHA.jpg"
+  image="images/auburn2.png"
   width="300px"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/auburn2.png"
+  image="images/AHA.jpg"
   width="300px"
 %}
 {% endcapture %}
