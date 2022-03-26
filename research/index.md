@@ -48,7 +48,7 @@ Our work is made possible by funding from different foundations, including the [
 {%
   include figure.html
   image="images/auburn2.png"
-  width="300px"
+  width="250px"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
