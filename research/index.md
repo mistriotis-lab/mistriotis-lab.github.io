@@ -30,7 +30,7 @@ Our work is made possible by funding from different foundations, including the [
 {%
   include figure.html
   image="images/BCRFA.png"
-  width="300px"
+  width="200px"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
