@@ -15,6 +15,16 @@ nav:
 
 {% include section.html %}
 
+
+{:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/auburn/Auburn_campus2.jpg" %}
+
+{% include section.html %}
+
+
 ## Twitter
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
