@@ -10,7 +10,7 @@ This website is under construction.
 {%
   include link.html
   type=""
-  icon=""
+  icon="favicons/favicon.png"
   text="See Auburn University's website"
   link="https://auburn.edu/"
   style="button"
