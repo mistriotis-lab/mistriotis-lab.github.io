@@ -16,4 +16,3 @@ The Mistriotis Lab is always looking for qualified Ph.D. candidates. Competitive
 
 {% include banner.html image="images/auburn/Auburn_campus.jpg" %}
 
-{% include section.html %}
