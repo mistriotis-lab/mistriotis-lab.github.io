@@ -7,22 +7,6 @@ title: Home
 {:.center}
 This website is under construction.
 
-{%
-  include link.html
-  type=""
-  icon="favicons/favicon.png"
-  text="See Auburn University's website"
-  link="https://auburn.edu/"
-  style="button"
-%}
-{%
-  include link.html
-  type=""
-  icon=""
-  text="See our Department's website"
-  link="https://www.eng.auburn.edu/chen/"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
