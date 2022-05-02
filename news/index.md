@@ -20,7 +20,7 @@ nav:
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/auburn/Auburn_campus2.jpg" %}
+{% include banner.html image="images/auburn/Auburn_campus3.jpg" %}
 
 {% include section.html %}
 
