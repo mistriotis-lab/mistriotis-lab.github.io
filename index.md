@@ -102,5 +102,3 @@ Check out the latest news from the Mistrotis Lab.
 
 {% include banner.html image="images/auburn/Auburn_campus.jpg" %}
 
-{% include section.html %}
-
