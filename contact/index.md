@@ -78,6 +78,10 @@ USA
 {% include section.html %}
 ### Fun Facts
 
+- Auburn is the No. 1 university on [Forbes magazine’s 2022](https://www.forbes.com/lists/best-employers-for-new-grads/?sh=18ff087c203a&) list of “America’s Best Employers for New Grads,” recognizing Auburn as a premier workplace. 
+
+- Auburn ranked No. 15 out of 300 employers on the [national list](https://www.forbes.com/lists/best-employers-for-new-grads/?sh=18ff087c203a&), rating ahead of worldwide companies, such as Google, Microsoft, American Express, Lockheed Martin and Delta Air Lines, to name a few. 
+
 - In 2021, Auburn was ranked #10 by The [Princeton Review's](https://www.princetonreview.com/college-rankings?rankings=happiest-students) list of happiest students on college campuses thanks in part to its wide variety of campus activities and events.
 
 - Auburn University's sports teams known as the **Tigers**, have won a total of [21 intercollegiate national championships](https://en.wikipedia.org/wiki/Auburn_University#Athletics) (including 17 NCAA Championships).
