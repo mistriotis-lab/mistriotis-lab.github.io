@@ -14,7 +14,7 @@ nav:
 
   image1="images/research/research_schematic.png"
   align="center"
-  width="10px"
+  width="50"
   tooltip1="Mistriotis Lab research"
 %}
 
