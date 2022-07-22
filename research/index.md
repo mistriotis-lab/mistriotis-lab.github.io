@@ -8,7 +8,6 @@ nav:
 # <i class="fas fa-microscope"></i>Research
 
 {:.center}
-{% include section.html %}
 
 {%
   include gallery.html
@@ -39,7 +38,6 @@ Our work is made possible by funding from different foundations, including
     - [Auburn University](https://cws.auburn.edu/ovpr)
 
 {:.center}
-{% include section.html %}
 
 {% capture col1 %}
 {%
