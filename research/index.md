@@ -11,6 +11,10 @@ Our research lies at the interface of **engineering biophysics**, **cell and mol
 
 Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engineering, imaging, and molecular biology techniques with next generation sequencing, quantitative analysis and mathematical modeling in order to develop tools which will delineate the mechanisms responsible for the development and progression of (patho)physiological phenomena. We are particularly interested in exploring how **biochemical** and **biophysical cues** affect fundamental cellular processes such as **migration, differentiation and gene expression** in order to develop therapeutic interventions against the initiation and progression of cardiovascular diseases, cellular/organismal aging and cancer.
 
+{:.center}
+{% include section.html full=true %}
+{% include banner.html image="videos/cell_video1.gif" %}
+
 {% include section.html %}
 
 ## Funding
