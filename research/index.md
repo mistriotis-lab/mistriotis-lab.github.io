@@ -23,10 +23,10 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 {% include section.html full=true %}
 {% include banner.html image="videos/cell_video1.gif" %}
 
+## Funding
+
 {% include section.html %}
 {:.center}
-
-## Funding
 
 Our work is made possible by funding from different foundations, including  
     - [National Blood Foundation](https://www.aabb.org/national-blood-foundation),  
