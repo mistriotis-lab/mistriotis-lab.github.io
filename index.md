@@ -5,7 +5,8 @@ title: Home
 # Mistriotis Laboratory at Auburn University
 
 {:.center}
-This website is under construction.
+`Leveraging Engineering, Biophysics, Cell & Molecular Biology and Biochemistry with applications in regenerative medicine, vascular diseases and cancer metastasis'
+
 
 {:.center}
 
