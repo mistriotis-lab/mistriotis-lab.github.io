@@ -23,8 +23,6 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 {% include section.html full=true %}
 {% include banner.html image="videos/cell_video1.gif" %}
 
-{% include section.html %}
-
 ## Funding
 
 Our work is made possible by funding from different foundations, including  
@@ -33,6 +31,8 @@ Our work is made possible by funding from different foundations, including
     - [American Heart Association](https://www.heart.org/),   
     - [Auburn University](https://cws.auburn.edu/ovpr)
 
+
+{% include section.html %}
 {:.center}
 
 {% capture col1 %}
