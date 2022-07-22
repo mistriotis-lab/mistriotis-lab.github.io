@@ -8,7 +8,14 @@ nav:
 # <i class="fas fa-microscope"></i>Research
 
 {:.center}
-<img src="images/research/research_schematic.png" alt="drawing" width="50"/>
+
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/research/research_schematic.png"
+  width="50px"
+%}
+{% endcapture %}
 
 
 Our research lies at the interface of **engineering biophysics**, **cell and molecular biology** and **biochemistry** with applications in aging, vascular diseases and cancer metastasis. Our key contributions are: 1) the development of a method to reverse stem cell aging for vascular rejuvenation; 2) the discovery of intracellular mechanisms regulating cell mechanosensing in confinement; 3) the development of a reporter-based system for quantifying gene and pathway activation.
