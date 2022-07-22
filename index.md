@@ -26,24 +26,9 @@ Our research lies at the interface of engineering, biophysics, cell & molecular 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research/research_schematic.png"
   link="research"
   headline="Our Research"
-  text=text
-%}
-
-{% capture text %}
-Our lab is part of the Department of Chemical Engineering, at the Samuel Gin College of Engineering.
-
-[See our resources &nbsp;→](resources)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/wilmore.jpg"
-  link="resources"
-  headline="Our Resources"
   text=text
 %}
 
