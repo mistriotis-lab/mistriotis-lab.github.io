@@ -7,7 +7,10 @@ nav:
 
 # <i class="fas fa-tools"></i>Tools
 
-<img src="/video/cell_video1.gif" width="250" height="250"/>
+
+{:.center}
+{% include section.html full=true %}
+{% include banner.html image="videos/cell_video1.gif" %}
 
 {% include search-info.html %}
 
