@@ -15,7 +15,7 @@ Panagiotis Mistriotis, Ph.D., is an assistant professor in the Department of Che
 {%
   include link.html
   type="link"
-  icon="fa google scholar"
+  icon="fab fa-google"
   text="Google Scholar"
   tooltip="Google Scholar"
   link="[pmistriotis@auburn.edu](https://scholar.google.com/citations?user=o4AVB2kAAAAJ&hl=en)"
