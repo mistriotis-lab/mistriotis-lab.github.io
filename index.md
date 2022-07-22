@@ -5,7 +5,7 @@ title: Home
 # Mistriotis Laboratory at Auburn University
 
 {:.center}
-❝Leveraging engineering, biophysics, cell & molecular biology and biochemistry to improve treatments in regenerative medicine, vascular diseases and cancer metastasis❞
+❝ Leveraging engineering, biophysics, cell & molecular biology and biochemistry to improve treatments in regenerative medicine, vascular diseases and cancer metastasis. ❞
 
 
 {:.center}
