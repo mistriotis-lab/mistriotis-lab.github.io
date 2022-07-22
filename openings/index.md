@@ -1,7 +1,7 @@
 ---
 title: Openings
 nav:
-  order: 5
+  order: 4
   tooltip: Openings
 ---
 
