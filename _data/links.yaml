@@ -1,5 +1,11 @@
 # general
 
+cv:
+  icon: fas fa-file
+  text: CV
+  tooltip: CV
+  link: $LINK
+  
 link:
   icon: fas fa-globe
   text: Link
