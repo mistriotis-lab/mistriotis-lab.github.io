@@ -9,6 +9,7 @@ links:
   cv: https://eng.auburn.edu/resumes/pzm0049
   orcid: 0000-0002-8069-3278
   email: pmistriotis@auburn.edu
+  linkedin: panagiotis-mistriotis-4141582b
   twitter: mistrigr
 ---
 
