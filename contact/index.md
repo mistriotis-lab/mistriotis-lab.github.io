@@ -51,14 +51,14 @@ USA
 {% capture col1 %}
 {%
   include figure.html
-  image="images/auburn_campus.jpg"
+  image="images/auburn/auburn_campus.jpg"
   caption="Samford Hall, located on College Street in Auburn, houses the University's administration."
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/rosshall.jpeg"
+  image="images/auburn/rosshall.jpeg"
   caption="Ross Hall, home to Auburn's Department of Chemical Engineering"
 %}
 {% endcapture %}
