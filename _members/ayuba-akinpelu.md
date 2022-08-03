@@ -1,6 +1,6 @@
 ---
 name: Ayuba Akinpelu 
-image: images/ayuba.jpg
+image: images/group-members/ayuba.jpg
 role: phd
 group: alum
 aliases:
