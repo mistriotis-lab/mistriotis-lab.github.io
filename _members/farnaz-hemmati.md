@@ -1,6 +1,6 @@
 ---
 name: Farnaz Hemmati
-image: images/farnaz.jpg
+image: images/group-members/farnaz.jpg
 role: phd
 aliases:
   - F. Hemmati
