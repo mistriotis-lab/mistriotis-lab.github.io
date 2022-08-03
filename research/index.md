@@ -40,14 +40,14 @@ Our work is made possible by funding from different foundations, including
 {% capture col1 %}
 {%
   include figure.html
-  image="images/nbf.png"
+  image="images/research/nbf.png"
   width="300px"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/BCRFA.png"
+  image="images/research/BCRFA.png"
   width="250px"
 %}
 {% endcapture %}
@@ -58,14 +58,14 @@ Our work is made possible by funding from different foundations, including
 {% capture col1 %}
 {%
   include figure.html
-  image="images/auburn2.png"
+  image="images/research/auburn2.png"
   width="300px"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/AHA.jpg"
+  image="images/research/AHA.jpg"
   width="300px"
 %}
 {% endcapture %}
