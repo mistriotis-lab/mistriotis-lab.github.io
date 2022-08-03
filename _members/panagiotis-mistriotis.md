@@ -1,6 +1,6 @@
 ---
 name: Dr. Panagiotis Mistriotis
-image: images/dr_mistriotis.jpg
+image: images/group-members/dr_mistriotis.jpg
 role: pi
 aliases:
   - P. Mistriotis
