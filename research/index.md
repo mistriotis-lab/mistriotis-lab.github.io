@@ -29,7 +29,15 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 
 ## Research Funding
 
-<br/>
+{:.center}
+<p float="left">
+  <img src="/images/research/nih.png" width="160" />
+  <img src="/images/research/AHA.jpg" width="170" /> 
+  <img src="/images/research/BCRFA.png" width="160" />
+  <img src="/images/research/nbf.png" width="170" />
+  <img src="/images/research/auburn2.png" width="160" />
+</p>
+
 1. **PI**: Dr. Panagiotis Mistriotis  
     **Project title**: ...  
     **Sponsor**: National Institute of Health (NIH)  
@@ -64,13 +72,5 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
     **Budget**: $250,000   
     **Dates**:  
     **Status**: Awarded  
-  
-<br/>
-<p float="left">
-  <img src="/images/research/nih.png" width="160" />
-  <img src="/images/research/AHA.jpg" width="170" /> 
-  <img src="/images/research/BCRFA.png" width="160" />
-  <img src="/images/research/nbf.png" width="170" />
-  <img src="/images/research/auburn2.png" width="160" />
-</p>
+
 
