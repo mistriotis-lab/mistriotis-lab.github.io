@@ -33,11 +33,11 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 Our work is made possible by funding from different foundations including 
 <br/>
 1. PI: Dr. Panagiotis Mistriotis
-    * Project title: ...  
-    * Sponsor: National Institute of Health (NIH)  
-    * Budget: $250,000   
-    * Dates:  
-    * Status: Awarded
+    Project title: ...  
+    Sponsor: National Institute of Health (NIH)  
+    Budget: $250,000   
+    Dates:  
+    Status: Awarded
 <br/>
 2. PI: Dr. Panagiotis Mistriotis  
   * Project title: ...
