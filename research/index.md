@@ -39,7 +39,7 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 <br/><br/>
 2. **PI**: Dr. Panagiotis Mistriotis    
     **Project title**: ...  
-    **Sponsor**: National Blood Foundation  
+    **Sponsor**: American Heart Association (AHA) 
     **Budget**: $250,000   
     **Dates**:  
     **Status**: Awarded
@@ -53,7 +53,7 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 <br/><br/>
 4. **PI**: Dr. Panagiotis Mistriotis    
     **Project title**: ...  
-    **Sponsor**: American Heart Association (AHA)  
+    **Sponsor**: National Blood Foundation    
     **Budget**: $250,000   
     **Dates**:  
     **Status**: Awarded
@@ -64,10 +64,13 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
     **Budget**: $250,000   
     **Dates**:  
     **Status**: Awarded  
-    
+  
+<br/><br/>
 <p float="left">
-  <img src="/images/research/research_schematic.png" width="100" />
-  <img src="/images/research/research_schematic.png" width="100" /> 
-  <img src="/images/research/research_schematic.png" width="100" />
+  <img src="/images/research/nih.png" width="150" />
+  <img src="/images/research/AHA.jpg" width="150" /> 
+  <img src="/images/research/BCRFA.png" width="150" />
+  <img src="/images/research/nbf.png" width="150" />
+  <img src="/images/research/auburn2.png" width="150" />
 </p>
 
