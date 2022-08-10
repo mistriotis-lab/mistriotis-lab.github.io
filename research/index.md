@@ -33,11 +33,11 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 Our work is made possible by funding from different foundations including 
 <br/>
 1. PI: Dr. Panagiotis Mistriotis
-  * Project title: ...
-  * Sponsor: National Institute of Health (NIH)
-  * Budget: $250,000 
-  * Dates:
-  * Status: Awarded
+    * Project title: ...  
+    * Sponsor: National Institute of Health (NIH)  
+    * Budget: $250,000   
+    * Dates:  
+    * Status: Awarded
 <br/>
 2. PI: Dr. Panagiotis Mistriotis  
   * Project title: ...
@@ -66,46 +66,4 @@ Our work is made possible by funding from different foundations including
   * Budget: $250,000 
   * Dates:
   * Status: Awarded
-
-
-const copy = `
-Here is a line of text
-
-- item 1
-- item 2
-- item 3
-
-Here is another line of text
-`;
-
-const styles = {
-  paragraph: {
-    marginTop: 0,
-    marginBottom: 0,
-  },
-  bullet_list_icon: {
-    lineHeight: 0,
-  }
-};
-
-const App: () => React$Node = () => {
-  return (
-    <>
-      <SafeAreaView>
-        <ScrollView
-          contentInsetAdjustmentBehavior="automatic"
-          style={{height: '100%'}}>
-          <View style={{height: '100%', padding: 10}}>
-            <Markdown 
-              debugPrintTree
-              style={styles}
-            >
-              {copy}
-            </Markdown>
-          </View>
-        </ScrollView>
-      </SafeAreaView>
-    </>
-  );
-};
 
