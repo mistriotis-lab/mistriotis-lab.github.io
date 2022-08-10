@@ -30,8 +30,6 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 ## Research Funding
 
 <br/>
-Our work is made possible by funding from different foundations including 
-<br/>
 1. **PI**: Dr. Panagiotis Mistriotis  
     **Project title**: ...  
     **Sponsor**: National Institute of Health (NIH)  
@@ -39,31 +37,31 @@ Our work is made possible by funding from different foundations including
     **Dates**:  
     **Status**: Awarded
 <br/><br/>
-2. PI: Dr. Panagiotis Mistriotis    
-    Project title: ...  
-    Sponsor: National Blood Foundation  
-    Budget: $250,000   
-    Dates:  
-    Status: Awarded  
+2. **PI**: Dr. Panagiotis Mistriotis    
+    **Project title**: ...  
+    **Sponsor**: National Blood Foundation  
+    **Budget**: $250,000   
+    **Dates**:  
+    **Status**: Awarded  
 <br/><br/>
-3. PI: Dr. Panagiotis Mistriotis    
-    Project title: ...  
-    Sponsor: Breast Cancer Research Foundation of Alabama  
-    Budget: $250,000   
-    Dates:  
-    Status: Awarded  
+3. **PI**: Dr. Panagiotis Mistriotis    
+    **Project title**: ...  
+    **Sponsor**: Breast Cancer Research Foundation of Alabama  
+    **Budget**: $250,000   
+    **Dates**:  
+    **Status**: Awarded  
 <br/><br/>
-4. PI: Dr. Panagiotis Mistriotis    
-    Project title: ...  
-    Sponsor: American Heart Association (AHA)  
-    Budget: $250,000   
-    Dates:  
-    Status: Awarded  
+4. **PI**: Dr. Panagiotis Mistriotis    
+    **Project title**: ...  
+    **Sponsor**: American Heart Association (AHA)  
+    **Budget**: $250,000   
+    **Dates**:  
+    **Status**: Awarded  
 <br/><br/>
-5. PI: Dr. Panagiotis Mistriotis    
-    Project title: ...  
-    Sponsor: Auburn University  
-    Budget: $250,000   
-    Dates:  
-    Status: Awarded  
+5. **PI**: Dr. Panagiotis Mistriotis    
+    **Project title**: ...  
+    **Sponsor**: Auburn University  
+    **Budget**: $250,000   
+    **Dates**:  
+    **Status**: Awarded  
 
