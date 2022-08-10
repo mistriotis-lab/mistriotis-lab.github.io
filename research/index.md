@@ -29,6 +29,37 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 
 ## Research Funding
 
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/research/nbf.png"
+  caption="Samford Hall, located on College Street in Auburn, houses the University's administration."
+%}
+{% endcapture %}
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/research/BCRFA.png"
+  caption="Ross Hall, home to Auburn's Department of Chemical Engineering"
+%}
+{% endcapture %}
+{% capture col3 %}
+{%
+  include figure.html
+  image="images/research/AHA.jpg"
+  caption="Ross Hall, home to Auburn's Department of Chemical Engineering"
+%}
+{% endcapture %}
+{% capture col4 %}
+{%
+  include figure.html
+  image="images/research/auburn2.png"
+  caption="Ross Hall, home to Auburn's Department of Chemical Engineering"
+%}
+{% endcapture %}
+{% include two-col.html col1=col1 col2=col2 col3=col3 col4=col4 %}
+
+<br/><br/>
 Our work is made possible by funding from different foundations including 
 <br/><br/>
 1. PI: Dr. Panagiotis Mistriotis  {:.right} {%
