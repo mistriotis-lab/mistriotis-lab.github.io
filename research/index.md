@@ -47,7 +47,7 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 <br/><br/>
 2. **PI**: Dr. Panagiotis Mistriotis    
     **Project title**: ...  
-    **Sponsor**: American Heart Association (AHA) 
+    **Sponsor**: American Heart Association (AHA)   
     **Budget**: $250,000   
     **Dates**:  
     **Status**: Awarded
