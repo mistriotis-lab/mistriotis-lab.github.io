@@ -57,7 +57,7 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
   caption="Ross Hall, home to Auburn's Department of Chemical Engineering"
 %}
 {% endcapture %}
-{% include two-col.html col1=col1 col2=col2 col3=col3 col4=col4 %}
+{% include four-col.html col1=col1 col2=col2 col3=col3 col4=col4 %}
 
 <br/><br/>
 Our work is made possible by funding from different foundations including 
