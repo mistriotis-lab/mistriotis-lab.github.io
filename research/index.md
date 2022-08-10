@@ -29,88 +29,41 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 
 ## Research Funding
 
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/research/nbf.png"
-  caption="Samford Hall, located on College Street in Auburn, houses the University's administration."
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/research/BCRFA.png"
-  caption="Ross Hall, home to Auburn's Department of Chemical Engineering"
-%}
-{% endcapture %}
-{% capture col3 %}
-{%
-  include figure.html
-  image="images/research/AHA.jpg"
-  caption="Ross Hall, home to Auburn's Department of Chemical Engineering"
-%}
-{% endcapture %}
-{% capture col4 %}
-{%
-  include figure.html
-  image="images/research/auburn2.png"
-  caption="Ross Hall, home to Auburn's Department of Chemical Engineering"
-%}
-{% endcapture %}
-{% include four-col.html col1=col1 col2=col2 col3=col3 col4=col4 %}
-
 <br/><br/>
 Our work is made possible by funding from different foundations including 
 <br/><br/>
-1. PI: Dr. Panagiotis Mistriotis  {:.right} {%
-  include figure.html
-  image="images/research/BCRFA.png"
-  width="300px"
-%}
-  * Project title: National Blood Foundation
+1. PI: Dr. Panagiotis Mistriotis
+  * Project title: ...
+  * Sponsor: National Institute of Health (NIH)
+  * Budget: $250,000 
+  * Dates:
+  * Status: Awarded
+<br/><br/>
+2. PI: Dr. Panagiotis Mistriotis  
+  * Project title: ...
   * Sponsor: National Blood Foundation
   * Budget: $250,000 
   * Dates:
   * Status: Awarded
 <br/><br/>
-2. PI: Dr. Panagiotis Mistriotis  <img align="right" width="100" src="https://github.com/mistriotis-lab/mistriotis-lab.github.io/images/research/nbf.png">
+3. PI: Dr. Panagiotis Mistriotis  
   * Project title: ...
   * Sponsor: Breast Cancer Research Foundation of Alabama
   * Budget: $250,000 
   * Dates:
   * Status: Awarded
+<br/><br/>
+4. PI: Dr. Panagiotis Mistriotis  
+  * Project title: ...
+  * Sponsor: American Heart Association (AHA)
+  * Budget: $250,000 
+  * Dates:
+  * Status: Awarded
+<br/><br/>
+5. PI: Dr. Panagiotis Mistriotis  
+  * Project title: ...
+  * Sponsor: Auburn University
+  * Budget: $250,000 
+  * Dates:
+  * Status: Awarded
 
-{:.center}
-
-{%
-  include figure.html
-  image="images/research/BCRFA.png"
-  width="300px"
-%}
-    
-{% include section.html %}
-
-
-[American Heart Association](https://www.heart.org/)
-
-{:.center}
-
-{%
-  include figure.html
-  image="images/research/AHA.jpg"
-  width="300px"
-%}
-    
-{% include section.html %}
-
-
-[Auburn University](https://cws.auburn.edu/ovpr)
-
-{:.center}
-
-{%
-  include figure.html
-  image="images/research/auburn2.png"
-  width="300px"
-%}
-    
