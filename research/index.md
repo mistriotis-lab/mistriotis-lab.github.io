@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research
 ---
 
 # <i class="fas fa-microscope"></i>Research
@@ -27,48 +27,57 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 {% include section.html %}
 {:.center}
 
-## Funding
+## Research Funding
 
-Our work is made possible by funding from different foundations, including  
-    - [National Blood Foundation](https://www.aabb.org/national-blood-foundation),  
-    - [Breast Cancer Research Foundation of Alabama](https://www.bcrfa.org/),  
-    - [American Heart Association](https://www.heart.org/),   
-    - [Auburn University](https://cws.auburn.edu/ovpr)
+Our work is made possible by funding from different foundations including 
+
+{% include section.html %}
+
+[National Blood Foundation](https://www.aabb.org/national-blood-foundation)
 
 {:.center}
 
-{% capture col1 %}
 {%
   include figure.html
   image="images/research/nbf.png"
   width="300px"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/research/BCRFA.png"
-  width="250px"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+    
+{% include section.html %}
+
+[Breast Cancer Research Foundation of Alabama](https://www.bcrfa.org/)
 
 {:.center}
 
-{% capture col1 %}
 {%
   include figure.html
-  image="images/research/auburn2.png"
+  image="images/research/BCRFA.png"
   width="300px"
 %}
-{% endcapture %}
-{% capture col2 %}
+    
+{% include section.html %}
+
+
+[American Heart Association](https://www.heart.org/)
+
+{:.center}
+
 {%
   include figure.html
   image="images/research/AHA.jpg"
   width="300px"
 %}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+    
+{% include section.html %}
 
 
+[Auburn University](https://cws.auburn.edu/ovpr)
+
+{:.center}
+
+{%
+  include figure.html
+  image="images/research/auburn2.png"
+  width="300px"
+%}
+    
