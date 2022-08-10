@@ -65,7 +65,7 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
     **Dates**:  
     **Status**: Awarded  
   
-<br/><br/>
+<br/>
 <p float="left">
   <img src="/images/research/nih.png" width="170" />
   <img src="/images/research/AHA.jpg" width="190" /> 
