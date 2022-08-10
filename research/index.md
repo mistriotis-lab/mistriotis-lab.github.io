@@ -41,7 +41,7 @@ Our work is made possible by funding from different foundations including
   * Dates:
   * Status: Awarded
     
-2. PI: Dr. Panagiotis Mistriotis  <img align="right" width="100" src="images/research/nbf.png">
+2. PI: Dr. Panagiotis Mistriotis  <img align="right" width="100" src="https://github.com/mistriotis-lab/mistriotis-lab.github.io/images/research/nbf.png">
   * Project title: ...
   * Sponsor: Breast Cancer Research Foundation of Alabama
   * Budget: $250,000 
