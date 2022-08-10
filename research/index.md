@@ -64,4 +64,10 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
     **Budget**: $250,000   
     **Dates**:  
     **Status**: Awarded  
+    
+<p float="left">
+  <img src="/images/research/research_schematic.png" width="100" />
+  <img src="/images/research/research_schematic.png" width="100" /> 
+  <img src="/images/research/research_schematic.png" width="100" />
+</p>
 
