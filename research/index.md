@@ -30,22 +30,23 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 ## Research Funding
 
 Our work is made possible by funding from different foundations including 
+\
+\
+\
 
-{% include section.html %}
-
-[National Blood Foundation](https://www.aabb.org/national-blood-foundation)
-
-{:.center}
-
-{%
-  include figure.html
-  image="images/research/nbf.png"
-  width="300px"
-%}
+1. PI: Dr. Panagiotis Mistriotis  <img align="right" width="100" src="images/research/nbf.png">
+  * Project title: National Blood Foundation
+  * Sponsor: National Blood Foundation
+  * Budget: $250,000 
+  * Dates:
+  * Status: Awarded
     
-{% include section.html %}
-
-[Breast Cancer Research Foundation of Alabama](https://www.bcrfa.org/)
+2. PI: Dr. Panagiotis Mistriotis  <img align="right" width="100" src="images/research/nbf.png">
+  * Project title: ...
+  * Sponsor: Breast Cancer Research Foundation of Alabama
+  * Budget: $250,000 
+  * Dates:
+  * Status: Awarded
 
 {:.center}
 
