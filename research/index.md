@@ -42,14 +42,14 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
     **Project title**: Cell mechanoresponses in physiologically relevant microenvironments       
     **Budget**: $1,865,315     
     **Dates**: 08/10/2022-06/31/2027     
-    **PI**: Dr. Panagiotis Mistriotis 
-<br/>
+    **PI**: Dr. Panagiotis Mistriotis   
+<br/>  
 2.  **Sponsor**: American Heart Association        
     **Project title**: The contributions of cytokinesis proteins to smooth muscle cell function in health and disease        
     **Budget**: $231,000         
     **Dates**: 04/01/2022-03/31/2025     
     **PI**: Dr. Panagiotis Mistriotis  
-<br/>
+<br/>  
 3.  **Sponsor**: Breast Cancer Research Foundation of Alabama      
     **Project title**: Integrating bioengineering tools, genome-wide genetic screens and in vivo models to discover
 new determinants of triple negative breast cancer cell invasion          
