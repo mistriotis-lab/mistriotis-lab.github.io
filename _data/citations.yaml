@@ -47,6 +47,22 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1038/mt.2014.103
+  title: Lentiviral Arrays for Live-cell Dynamic Monitoring of Gene and Pathway Activity
+    During Stem Cell Differentiation
+  authors:
+  - Roshan M Padmashali
+  - Panagiotis Mistriotis
+  - Mao-shih Liang
+  - Stelios T Andreadis
+  publisher: Molecular Therapy
+  date: '2014-11-01'
+  link: https://doi.org/f6nb6k
+  image: images/papers/molecular-therapy.png
+  tags:
+  - lentiviral arrays
+  - differentiation
+  - dynamic monitoring
 - id: doi:10.1016/j.biomaterials.2013.08.063
   title: "Poly(ethylene glycol)-block-cationic polylactide nanocomplexes of\_differing\
     \ charge density for gene delivery"
