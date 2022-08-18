@@ -47,6 +47,19 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1007/978-1-62703-417-3_5
+  title: 'Hair Follicle: A Novel Source of Stem Cells for Cell and Gene Therapy'
+  authors:
+  - Panagiotis Mistriotis
+  - Stelios T. Andreadis
+  publisher: Emerging Trends in Cell and Gene Therapy
+  date: '2013-01-01'
+  link: https://doi.org/gqn4wq
+  image: images/papers/emerging-trends.png
+  tags:
+  - hair follicle
+  - stem cells
+  - gene therapy
 - id: doi:10.1002/stem.1223
   title: Nanog Reverses the Effects of Organismal Aging on Mesenchymal Stem Cell Proliferation
     and Myogenic Differentiation Potential
