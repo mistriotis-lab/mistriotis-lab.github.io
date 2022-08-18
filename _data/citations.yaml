@@ -47,6 +47,19 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1016/j.arr.2017.05.006
+  title: 'Vascular aging: Molecular mechanisms and potential treatments for vascular
+    rejuvenation'
+  authors:
+  - Panagiotis Mistriotis
+  - Stelios T. Andreadis
+  publisher: Ageing Research Reviews
+  date: '2017-08-01'
+  link: https://doi.org/gmqtfz
+  image: images/papers/ageing-research-reviews.png
+  tags:
+  - vscular aging
+  - vascular rejuvenation
 - id: doi:10.1089/ten.tea.2016.0494
   title: NANOG Restores Contractility of Mesenchymal Stem Cell-Based Senescent Microtissues
   authors:
