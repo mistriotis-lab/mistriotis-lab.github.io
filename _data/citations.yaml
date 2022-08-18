@@ -1,14 +1,27 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1101/2022.06.27.497742
-  title: Changing word meanings in biomedical literature reveal pandemics and new
-    technologies
+- id: doi:10.1038/s41467-022-29988-w
+  title: Kidney epithelial cells are active mechano-biological fluid pumps
   authors:
-  - David N. Nicholson
-  - Faisal Alquaddoomi
-  - Vincent Rubinetti
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-06-28'
-  link: https://doi.org/gqhrv9
-  image: https://user-images.githubusercontent.com/542643/179368710-0f832059-fc60-410c-b9bf-43d1cf381f18.png
+  - Mohammad Ikbal Choudhury
+  - Yizeng Li
+  - Panagiotis Mistriotis
+  - Ana Carina N. Vasconcelos
+  - Eryn E. Dixon
+  - Jing Yang
+  - Morgan Benson
+  - Debonil Maity
+  - Rebecca Walker
+  - Leigha Martin
+  - Fatima Koroma
+  - Feng Qian
+  - Konstantinos Konstantopoulos
+  - Owen M. Woodward
+  - Sean X. Sun
+  publisher: Nature Communications
+  date: '2022-04-28'
+  link: https://doi.org/gp57rr
+  tags:
+  - kidney
+  - morphogenesis
+  - tissues
