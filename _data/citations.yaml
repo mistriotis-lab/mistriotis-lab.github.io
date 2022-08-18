@@ -47,6 +47,23 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1016/j.jtemb.2007.09.004
+  title: Manganese species from human serum, cerebrospinal fluid analyzed by size
+    exclusion chromatography-, capillary electrophoresis coupled to inductively coupled
+    plasma mass spectrometry
+  authors:
+  - Bernhard Michalke
+  - Achim Berthele
+  - Panos Mistriotis
+  - "Maria Ochsenk\xFChn-Petropoulou"
+  - Stefan Halbach
+  publisher: Journal of Trace Elements in Medicine and Biology
+  date: '2007-12-01'
+  link: https://doi.org/fmvg7w
+  tags:
+  - human cerebrospinal fluid
+  - capillary electrophoresis
+  - manganese species
 - id: doi:10.1002/elps.200600686
   title: Manganese speciation in human cerebrospinal fluid using CZE coupled to inductively
     coupled plasma MS
