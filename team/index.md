@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Our lab is made up of a highly engaged and collaborative team of researchers. We believe diversity in the classroom and research laboratory is critical for academic and research success. In Mistriotis Lab, team members are treated equally and their differences are respected and admited.
+Our lab is made up of a highly engaged and collaborative team of researchers. We believe that diversity in the classroom and research laboratory is critical for academic and research success. In Mistriotis Lab, team members are treated equally and their differences are respected and admired.
 
 {%
   include list.html
