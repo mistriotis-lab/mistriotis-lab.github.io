@@ -18,6 +18,12 @@
 
 # 2007
 
+- id: doi:10.1002/elps.200600686
+  tags:
+    - human cerebrospinal fluid
+    - coupled plasma
+    - manganese species
+
 - id: doi:10.1039/B610639K
   image: "images/papers/manganese.jpeg"
   tags:
