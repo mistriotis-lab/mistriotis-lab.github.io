@@ -47,6 +47,26 @@
   - TRPM7
   - intravasation
   image: images/papers/science-advances.png
+- id: doi:10.1158/0008-5472.CAN-18-3369
+  title: "A Direct Podocalyxin\u2013Dynamin-2 Interaction Regulates Cytoskeletal Dynamics\
+    \ to Promote Migration and Metastasis in Pancreatic Cancer Cells"
+  authors:
+  - Bin Sheng Wong
+  - Daniel J. Shea
+  - Panagiotis Mistriotis
+  - Soontorn Tuntithavornwat
+  - Robert A. Law
+  - Jake M. Bieber
+  - Lei Zheng
+  - Konstantinos Konstantopoulos
+  publisher: Cancer Research
+  date: '2019-06-01'
+  link: https://doi.org/gqn4z4
+  image: images/papers/cancer-research.png
+  tags:
+  - pancreatic cancer cells
+  - migration
+  - metastasis
 - id: doi:10.1007/978-3-319-95294-9_8
   title: 'Exposing Cell-Itary Confinement: Understanding the Mechanisms of Confined
     Single Cell Migration'
