@@ -47,6 +47,28 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1016/j.biomaterials.2013.08.063
+  title: "Poly(ethylene glycol)-block-cationic polylactide nanocomplexes of\_differing\
+    \ charge density for gene delivery"
+  authors:
+  - Chih-Kuang Chen
+  - Charles H. Jones
+  - Panagiotis Mistriotis
+  - Yun Yu
+  - Xiaoni Ma
+  - Anitha Ravikrishnan
+  - Ming Jiang
+  - Stelios T. Andreadis
+  - Blaine A. Pfeifer
+  - Chong Cheng
+  publisher: Biomaterials
+  date: '2013-12-01'
+  link: https://doi.org/f5hcrx
+  image: images/papers/biomaterials.png
+  tags:
+  - cationic polymer
+  - nanocomplex
+  - gene delivery
 - id: doi:10.1089/ten.teb.2012.0422
   title: 'Hair Follicle: A Novel Source of Multipotent Stem Cells for Tissue Engineering
     and Regenerative Medicine'
