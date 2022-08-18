@@ -16,6 +16,15 @@
     - TRPM7
     - intravasation
 
+# 2012
+
+- id: doi:10.1016/j.scr.2011.07.003
+  image: "images/papers/clonal-multipotency.png"
+  tags:
+    - clonal multipotency
+    - human hair follicle
+    - mesenchymal stem cells
+
 # 2008
 
 - id: doi:10.1016/j.jbiotec.2008.07.600
