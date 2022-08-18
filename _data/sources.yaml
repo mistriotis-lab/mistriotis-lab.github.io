@@ -16,6 +16,15 @@
     - TRPM7
     - intravasation
 
+# 2013
+
+- id: doi:10.1007/978-1-62703-417-3_5
+  image: "images/papers/emerging-trends.png"
+  tags:
+    - hair follicle
+    - stem cells
+    - gene therapy
+
 # 2012
 
 - id: doi:10.1002/stem.1223
