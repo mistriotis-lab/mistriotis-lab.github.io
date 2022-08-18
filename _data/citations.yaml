@@ -47,6 +47,32 @@
   - TRPM7
   - intravasation
   image: images/papers/science-advances.png
+- id: doi:10.1038/s41551-019-0400-9
+  title: A microfluidic assay for the quantification of the metastatic propensity
+    of breast cancer specimens
+  authors:
+  - Christopher L. Yankaskas
+  - Keyata N. Thompson
+  - Colin D. Paul
+  - Michele I. Vitolo
+  - Panagiotis Mistriotis
+  - Ankit Mahendra
+  - Vivek K. Bajpai
+  - Daniel J. Shea
+  - Kristen M. Manto
+  - Andreas C. Chai
+  - Navin Varadarajan
+  - Aikaterini Kontrogianni-Konstantopoulos
+  - Stuart S. Martin
+  - Konstantinos Konstantopoulos
+  publisher: Nature Biomedical Engineering
+  date: '2019-05-06'
+  link: https://doi.org/gngd8n
+  image: images/papers/nature-biomedical-engineering.png
+  tags:
+  - microfluidic assay
+  - breast cancer
+  - metastasis
 - id: doi:10.1158/0008-5472.CAN-18-3369
   title: "A Direct Podocalyxin\u2013Dynamin-2 Interaction Regulates Cytoskeletal Dynamics\
     \ to Promote Migration and Metastasis in Pancreatic Cancer Cells"
