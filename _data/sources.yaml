@@ -65,6 +65,7 @@
 # 2007
 
 - id: doi:10.1016/j.jtemb.2007.09.004
+  image: "images/papers/trace-elements.png"
   tags:
     - human cerebrospinal fluid
     - capillary electrophoresis
