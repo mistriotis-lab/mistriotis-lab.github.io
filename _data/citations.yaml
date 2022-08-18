@@ -47,6 +47,22 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1089/ten.tea.2016.0494
+  title: NANOG Restores Contractility of Mesenchymal Stem Cell-Based Senescent Microtissues
+  authors:
+  - Aref Shahini
+  - Panagiotis Mistriotis
+  - Mohammadnabi Asmani
+  - Ruogang Zhao
+  - Stelios T. Andreadis
+  publisher: Tissue Engineering Part A
+  date: '2017-06-01'
+  link: https://doi.org/gbg76z
+  image: images/papers/tissue-engineering-a.png
+  tags:
+  - nanog
+  - contractility
+  - mesenchymal stem cells
 - id: doi:10.1038/nrc.2016.123
   title: 'Cancer cell motility: lessons from migration in confined spaces'
   authors:
