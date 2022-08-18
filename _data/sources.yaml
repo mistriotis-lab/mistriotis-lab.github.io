@@ -18,6 +18,12 @@
 
 # 2012
 
+- id: doi:10.1093/cvr/cvs253
+  image: "images/papers/functional-vascular.png"
+  tags:
+    - smooth muscle cells
+    - human induced pluripotent stem cells
+
 - id: doi:10.1016/j.scr.2011.07.003
   image: "images/papers/clonal-multipotency.png"
   tags:
