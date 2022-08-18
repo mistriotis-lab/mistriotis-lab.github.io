@@ -5,4 +5,4 @@ nav:
   tooltip: Publications
 ---
 
-...
+{% include search-box.html %}
