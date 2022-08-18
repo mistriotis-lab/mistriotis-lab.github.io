@@ -25,3 +25,23 @@
   - kidney
   - morphogenesis
   - tissues
+- id: doi:10.1126/sciadv.abh3457
+  title: The fluid shear stress sensor TRPM7 regulates tumor cell intravasation
+  authors:
+  - Christopher L. Yankaskas
+  - Kaustav Bera
+  - Konstantin Stoletov
+  - Selma A. Serra
+  - Julia Carrillo-Garcia
+  - Soontorn Tuntithavornwat
+  - Panagiotis Mistriotis
+  - John D. Lewis
+  - Miguel A. Valverde
+  - Konstantinos Konstantopoulos
+  publisher: Science Advances
+  date: '2021-07-09'
+  link: https://doi.org/gn2797
+  tags:
+  - fluid shear stress
+  - TRPM7
+  - intravasation
