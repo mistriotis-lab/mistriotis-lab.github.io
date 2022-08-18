@@ -18,6 +18,13 @@
 
 # 2017
 
+- id: doi:10.1089/ten.tea.2016.0494
+  image: "images/papers/tissue-engineering-a.png"
+  tags:
+    - nanog
+    - contractility
+    - mesenchymal stem cells
+
 - id: doi:10.1038/nrc.2016.123
   image: "images/papers/nature-reviews-cancer.png"
   tags:
