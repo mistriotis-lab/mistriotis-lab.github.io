@@ -47,6 +47,21 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1038/nrc.2016.123
+  title: 'Cancer cell motility: lessons from migration in confined spaces'
+  authors:
+  - Colin D. Paul
+  - Panagiotis Mistriotis
+  - Konstantinos Konstantopoulos
+  publisher: Nature Reviews Cancer
+  date: '2016-12-02'
+  link: https://doi.org/f9gw9c
+  image: images/papers/nature-reviews-cancer.png
+  tags:
+  - cell motility
+  - migation
+  - cancer
+  - confined spaces
 - id: doi:10.1002/stem.2452
   title: NANOG Reverses the Myogenic Differentiation Potential of Senescent Stem Cells
     by Restoring ACTIN Filamentous Organization and SRF-Dependent Gene Expression
