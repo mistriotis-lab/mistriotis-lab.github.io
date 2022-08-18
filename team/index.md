@@ -30,4 +30,17 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 %}
 {:.center}
 
+{% include section.html dark=true %}
+
+The Mistriotis Lab is always looking for talented and qualified new people. Interested in joining our lab?
+
+{%
+  include link.html
+  icon="fas fa-hands-helping"
+  text="Join the Team"
+  link="openings"
+  style="button"
+%}
+
+
 
