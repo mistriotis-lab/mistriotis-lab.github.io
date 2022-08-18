@@ -47,6 +47,24 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1016/j.jbiotec.2008.07.600
+  title: 'Biotransformations of natural compounds: Structural and functional diversity
+    of novel derivatives'
+  authors:
+  - Epameinondas Xanthakis
+  - Panos Mistriotis
+  - Haralampos Stamatis
+  - Sophia Magkouta
+  - Heleni Loutrari
+  - Charis Roussos
+  - Fragiskos Kolisis
+  publisher: Journal of Biotechnology
+  date: '2008-10-01'
+  link: https://doi.org/cntb8p
+  tags:
+  - biotransformations
+  - natural compounds
+  - derivatives
 - id: doi:10.1016/j.jtemb.2007.09.004
   title: Manganese species from human serum, cerebrospinal fluid analyzed by size
     exclusion chromatography-, capillary electrophoresis coupled to inductively coupled
