@@ -47,6 +47,30 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1002/stem.2452
+  title: NANOG Reverses the Myogenic Differentiation Potential of Senescent Stem Cells
+    by Restoring ACTIN Filamentous Organization and SRF-Dependent Gene Expression
+  authors:
+  - Panagiotis Mistriotis
+  - Vivek K. Bajpai
+  - Xiaoyan Wang
+  - Na Rong
+  - Aref Shahini
+  - Mohammadnabi Asmani
+  - Mao-Shih Liang
+  - Jianmin Wang
+  - Pedro Lei
+  - Song Liu
+  - Ruogang Zhao
+  - Stelios T. Andreadis
+  publisher: Stem Cells
+  date: '2016-07-11'
+  link: https://doi.org/f9kpb4
+  image: images/papers/stem-cells-2017.png
+  tags:
+  - nanog
+  - myogenic differentiation
+  - senescent stem cells
 - id: doi:10.1038/mt.2014.103
   title: Lentiviral Arrays for Live-cell Dynamic Monitoring of Gene and Pathway Activity
     During Stem Cell Differentiation
