@@ -25,7 +25,7 @@
   - kidney
   - morphogenesis
   - tissues
-  image: images/papers/kidney.png
+  image: images/papers/nature-comm.png
 - id: doi:10.1126/sciadv.abh3457
   title: The fluid shear stress sensor TRPM7 regulates tumor cell intravasation
   authors:
@@ -46,7 +46,7 @@
   - fluid shear stress
   - TRPM7
   - intravasation
-  image: images/papers/the-fluid-shear-stress.jpeg
+  image: images/papers/science-advances.png
 - id: doi:10.1016/j.arr.2017.05.006
   title: 'Vascular aging: Molecular mechanisms and potential treatments for vascular
     rejuvenation'
