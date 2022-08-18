@@ -16,6 +16,15 @@
     - TRPM7
     - intravasation
 
+# 2017
+
+- id: doi:10.1002/stem.2452
+  image: "images/papers/stem-cells-2017.png"
+  tags:
+    - nanog
+    - myogenic differentiation
+    - senescent stem cells
+
 # 2014
 
 - id: doi:10.1038/mt.2014.103
