@@ -1,11 +1,26 @@
+# 2022
+
 - id: doi:10.1038/s41467-022-29988-w
   tags:
     - kidney
     - morphogenesis
     - tissues
     
+# 2021   
+    
 - id: doi:10.1126/sciadv.abh3457
   tags:
     - fluid shear stress
     - TRPM7
     - intravasation
+
+# 2007
+
+- id: doi:10.1039/B610639K
+  image: "/images/papers/manganese.jpeg"
+  tags:
+    - cerebrospinal fluid
+    - plasma mass spectrometry
+    - manganese species
+  
+    
