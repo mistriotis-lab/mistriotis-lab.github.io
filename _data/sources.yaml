@@ -71,6 +71,7 @@
     - manganese species
 
 - id: doi:10.1002/elps.200600686
+  image: "images/papers/electrophoresis.png"
   tags:
     - human cerebrospinal fluid
     - coupled plasma
