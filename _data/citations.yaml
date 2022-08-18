@@ -45,3 +45,21 @@
   - fluid shear stress
   - TRPM7
   - intravasation
+- id: doi:10.1039/B610639K
+  title: Size characterization of manganese species from human serum and cerebrospinal
+    fluid using size exclusion chromatography coupled to inductively coupled plasma
+    mass spectrometry
+  authors:
+  - Bernhard Michalke
+  - Stefan Halbach
+  - Achim Berthele
+  - Panos Mistritiotis
+  - "Maria Ochsenk\xFChn-Petropoulou"
+  publisher: J. Anal. At. Spectrom.
+  date: '2007-01-01'
+  link: https://doi.org/c8vn33
+  image: /images/papers/manganese.jpeg
+  tags:
+  - cerebrospinal fluid
+  - plasma mass spectrometry
+  - manganese species
