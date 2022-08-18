@@ -47,6 +47,40 @@
   - TRPM7
   - intravasation
   image: images/papers/science-advances.png
+- id: doi:10.1038/onc.2017.164
+  title: Activation of tumor suppressor LKB1 by honokiol abrogates cancer stem-like
+    phenotype in breast cancer via inhibition of oncogenic Stat3
+  authors:
+  - S Sengupta
+  - A Nagalingam
+  - N Muniraj
+  - M Y Bonner
+  - P Mistriotis
+  - A Afthinos
+  - P Kuppusamy
+  - D Lanoue
+  - S Cho
+  - P Korangath
+  - M Shriver
+  - A Begum
+  - V F Merino
+  - C-Y Huang
+  - J L Arbiser
+  - W Matsui
+  - "B Gy\u0151rffy"
+  - K Konstantopoulos
+  - S Sukumar
+  - P A Marignani
+  - N K Saxena
+  - D Sharma
+  publisher: Oncogene
+  date: '2017-06-05'
+  link: https://doi.org/gcfv7d
+  image: images/papers/oncogene.png
+  tags:
+  - LKB1
+  - breast cancer
+  - Stat3 inhibition
 - id: doi:10.1016/j.arr.2017.05.006
   title: 'Vascular aging: Molecular mechanisms and potential treatments for vascular
     rejuvenation'
