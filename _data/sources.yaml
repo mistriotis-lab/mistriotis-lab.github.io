@@ -18,6 +18,12 @@
 
 # 2017
 
+- id: doi:10.1016/j.arr.2017.05.006
+  image: "images/papers/ageing-research-reviews.png"
+  tags:
+    - vscular aging
+    - vascular rejuvenation
+
 - id: doi:10.1089/ten.tea.2016.0494
   image: "images/papers/tissue-engineering-a.png"
   tags:
