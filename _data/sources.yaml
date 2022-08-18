@@ -7,7 +7,7 @@
     - morphogenesis
     - tissues
     
-# 2021   
+# 2021  
     
 - id: doi:10.1126/sciadv.abh3457
   image: "images/papers/the-fluid-shear-stress.jpeg"
@@ -17,6 +17,14 @@
     - intravasation
 
 # 2017
+
+- id: doi:10.1038/nrc.2016.123
+  image: "images/papers/nature-reviews-cancer.png"
+  tags:
+    - cell motility
+    - migation
+    - cancer
+    - confined spaces
 
 - id: doi:10.1002/stem.2452
   image: "images/papers/stem-cells-2017.png"
