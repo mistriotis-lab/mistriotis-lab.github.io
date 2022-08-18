@@ -1,7 +1,7 @@
 # 2022
 
 - id: doi:10.1038/s41467-022-29988-w
-  image: "images/papers/kidney.png"
+  image: "images/papers/nature-comm.png"
   tags:
     - kidney
     - morphogenesis
@@ -10,7 +10,7 @@
 # 2021  
     
 - id: doi:10.1126/sciadv.abh3457
-  image: "images/papers/the-fluid-shear-stress.jpeg"
+  image: "images/papers/science-advances.png"
   tags:
     - fluid shear stress
     - TRPM7
