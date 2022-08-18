@@ -18,6 +18,13 @@
 
 # 2017
 
+- id: doi:10.1038/onc.2017.164
+  image: "images/papers/oncogene.png"
+  tags:
+    - LKB1
+    - breast cancer
+    - Stat3 inhibition
+
 - id: doi:10.1016/j.arr.2017.05.006
   image: "images/papers/ageing-research-reviews.png"
   tags:
