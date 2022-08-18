@@ -18,6 +18,13 @@
 
 # 2013
 
+- id: doi:10.1089/ten.teb.2012.0422
+  image: "images/papers/tissue-engineering-b.png"
+  tags:
+    - hair follicle
+    - multipotent stem cells
+    - regenerative medicine
+
 - id: doi:10.1007/978-1-62703-417-3_5
   image: "images/papers/emerging-trends.png"
   tags:
