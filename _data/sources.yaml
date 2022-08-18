@@ -16,6 +16,15 @@
     - TRPM7
     - intravasation
 
+# 2014
+
+- id: doi:10.1038/mt.2014.103
+  image: "images/papers/molecular-therapy.png"
+  tags:
+    - lentiviral arrays
+    - differentiation
+    - dynamic monitoring
+
 # 2013
 
 - id: doi:10.1016/j.biomaterials.2013.08.063
