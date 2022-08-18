@@ -18,6 +18,13 @@
 
 # 2012
 
+- id: doi:10.1002/stem.1223
+  image: "images/papers/nanog-reverses.png"
+  tags:
+    - Nanog
+    - Organismal Aging
+    - mesenchymal stem cells
+
 - id: doi:10.1093/cvr/cvs253
   image: "images/papers/functional-vascular.png"
   tags:
