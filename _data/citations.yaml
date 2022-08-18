@@ -47,6 +47,20 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1089/ten.teb.2012.0422
+  title: 'Hair Follicle: A Novel Source of Multipotent Stem Cells for Tissue Engineering
+    and Regenerative Medicine'
+  authors:
+  - Panagiotis Mistriotis
+  - Stelios T. Andreadis
+  publisher: 'Tissue Engineering Part B: Reviews'
+  date: '2013-08-01'
+  link: https://doi.org/f429xx
+  image: images/papers/tissue-engineering-b.png
+  tags:
+  - hair follicle
+  - multipotent stem cells
+  - regenerative medicine
 - id: doi:10.1007/978-1-62703-417-3_5
   title: 'Hair Follicle: A Novel Source of Stem Cells for Cell and Gene Therapy'
   authors:
