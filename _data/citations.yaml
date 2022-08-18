@@ -47,6 +47,22 @@
   - TRPM7
   - intravasation
   image: images/papers/science-advances.png
+- id: doi:10.1007/978-3-319-95294-9_8
+  title: 'Exposing Cell-Itary Confinement: Understanding the Mechanisms of Confined
+    Single Cell Migration'
+  authors:
+  - Bin Sheng Wong
+  - Panagiotis Mistriotis
+  - Konstantinos Konstantopoulos
+  publisher: Advances in Experimental Medicine and Biology
+  date: '2018-01-01'
+  link: https://doi.org/gqn4z3
+  image: images/papers/biomechanics-in-oncology.png
+  tags:
+  - osmotic engine
+  - cell blebbing
+  - amoeboid migration
+  - confinement
 - id: doi:10.1038/onc.2017.164
   title: Activation of tumor suppressor LKB1 by honokiol abrogates cancer stem-like
     phenotype in breast cancer via inhibition of oncogenic Stat3
