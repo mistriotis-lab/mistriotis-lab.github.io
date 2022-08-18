@@ -1,6 +1,7 @@
 # 2022
 
 - id: doi:10.1038/s41467-022-29988-w
+  image: "images/papers/kidney.png"
   tags:
     - kidney
     - morphogenesis
