@@ -16,6 +16,16 @@
     - TRPM7
     - intravasation
 
+# 2018
+
+- id: doi:10.1007/978-3-319-95294-9_8
+  image: "images/papers/biomechanics-in-oncology.png"
+  tags:
+    - osmotic engine
+    - cell blebbing
+    - amoeboid migration
+    - confinement
+
 # 2017
 
 - id: doi:10.1038/onc.2017.164
