@@ -47,6 +47,21 @@
   - TRPM7
   - intravasation
   image: images/papers/the-fluid-shear-stress.jpeg
+- id: doi:10.1016/j.scr.2011.07.003
+  title: Clonal multipotency and effect of long-term in vitro expansion on differentiation
+    potential of human hair follicle derived mesenchymal stem cells
+  authors:
+  - Vivek K. Bajpai
+  - Panagiotis Mistriotis
+  - Stelios T. Andreadis
+  publisher: Stem Cell Research
+  date: '2012-01-01'
+  link: https://doi.org/fnbvbg
+  image: images/papers/clonal-multipotency.png
+  tags:
+  - clonal multipotency
+  - human hair follicle
+  - mesenchymal stem cells
 - id: doi:10.1016/j.jbiotec.2008.07.600
   title: 'Biotransformations of natural compounds: Structural and functional diversity
     of novel derivatives'
