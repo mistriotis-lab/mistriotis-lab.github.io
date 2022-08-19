@@ -47,6 +47,32 @@
   - TRPM7
   - intravasation
   image: images/papers/science-advances-july-2021.png
+- id: doi:10.1126/sciadv.aba6505
+  title: Dorsoventral polarity directs cell responses to migration track geometries
+  authors:
+  - Emily O. Wisniewski
+  - Panagiotis Mistriotis
+  - Kaustav Bera
+  - Robert A. Law
+  - Jitao Zhang
+  - Milos Nikolic
+  - Michael Weiger
+  - Maria Parlani
+  - Soontorn Tuntithavornwat
+  - Alexandros Afthinos
+  - Runchen Zhao
+  - Denis Wirtz
+  - Petr Kalab
+  - Giuliano Scarcelli
+  - Peter Friedl
+  - Konstantinos Konstantopoulos
+  publisher: Science Advances
+  date: '2020-07-31'
+  link: https://doi.org/gpxpmj
+  image: images/papers/science-advances-july-2020.png
+  tags:
+  - dorsoventral polarity
+  - cell migration
 - id: doi:10.1158/1538-7445.MVC2020-PR06
   title: "Abstract PR06: <i>Bacteroides fragilis</i>: A potential pathogen orchestrating\
     \ EMT and stemness in breast epithelial cells via concomitant activation of Notch\
