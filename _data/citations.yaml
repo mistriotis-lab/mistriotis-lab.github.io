@@ -81,6 +81,30 @@
   - TRPM7
   - intravasation
   image: images/papers/science-advances-july-2021.png
+- id: doi:10.1158/1538-7445.AM2021-1354
+  title: 'Abstract 1354: Deciphering the functional basis of synergy between taxanes
+    and TAK715: A novel repurposed drug candidate in treatment-refractory aggressive
+    prostate cancer'
+  authors:
+  - Sayak Chakravarti
+  - Suman Mazumder
+  - Farnaz Hemmati
+  - Farshad Amiri
+  - Taraswi Mitra Ghosh
+  - Ujjal Kumar Mukherjee
+  - Panagiotis Mistriotis
+  - Timothy Moore
+  - Robert Arnold
+  - Clayton Yates
+  - Amit Kumar Mitra
+  publisher: Cancer Research
+  date: '2021-07-01'
+  link: https://doi.org/gqn756
+  image: images/papers/cancer-research-2021.png
+  tags:
+  - taxanes
+  - TAK715
+  - prostate cancer
 - id: doi:10.1158/2159-8290.CD-20-0537
   title: "A Procarcinogenic Colon Microbe Promotes Breast Tumorigenesis and Metastatic\
     \ Progression and Concomitantly Activates Notch and \u03B2-Catenin Axes"
