@@ -30,6 +30,13 @@
 
 # 2020
 
+- id: doi:10.1016/j.isci.2020.101802
+  image: "images/papers/iscience-december-2020.png"
+  tags:
+    - myosin 10
+    - glioblastoma
+    - metabolic signaling
+
 - id: doi:10.1126/sciadv.aba6505
   image: "images/papers/science-advances-july-2020.png"
   tags:
