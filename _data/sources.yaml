@@ -7,6 +7,18 @@
     - morphogenesis
     - tissues
     
+- id: doi:10.1101/2021.07.05.450786
+  image: "images/papers/biorxiv.jpg"
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2022.07.20.500378v1.abstract
+  tags:
+  - pharmacogenomics
+  - single-cell RNAseq
+  - NAMPT inhibitor
+  - prostate cancer
+    
 # 2021  
     
 - id: doi:10.1126/sciadv.abh3457
