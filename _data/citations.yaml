@@ -47,6 +47,28 @@
   - TRPM7
   - intravasation
   image: images/papers/science-advances-july-2021.png
+- id: doi:10.1158/1538-7445.MVC2020-PR06
+  title: "Abstract PR06: <i>Bacteroides fragilis</i>: A potential pathogen orchestrating\
+    \ EMT and stemness in breast epithelial cells via concomitant activation of Notch\
+    \ and \u03B2catenin axes"
+  authors:
+  - Sheetal Parida
+  - Shaoguang Wu
+  - Nethaji Muniraj
+  - Sumit Siddharth
+  - Arumugam Nagaligam
+  - Christina Hum
+  - Panagiotis Mistriotis
+  - Konstantinos Konstantopoulos
+  - Cynthia Sears
+  - Dipali Sharma
+  publisher: Cancer Research
+  date: '2020-04-15'
+  link: https://doi.org/ghv773
+  image: images/papers/cancer-research-2020.png
+  tags:
+  - breast epithelial cells
+  - Bacteroides fragilis
 - id: doi:10.1083/jcb.201902057
   title: Confinement hinders motility by inducing RhoA-mediated nuclear influx, volume
     expansion, and blebbing
