@@ -16,6 +16,14 @@
     - TRPM7
     - intravasation
 
+# 2020
+
+- id: doi:10.1158/1538-7445.MVC2020-PR06
+  image: "images/papers/cancer-research-2020.png"
+  tags:
+    - breast epithelial cells
+    - Bacteroides fragilis
+
 # 2019
 
 - id: doi:10.1083/jcb.201902057
