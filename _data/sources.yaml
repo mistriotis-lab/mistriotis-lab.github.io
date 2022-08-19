@@ -18,6 +18,12 @@
 
 # 2019
 
+- id: doi:10.1096/fj.201900377R
+  image: "images/papers/faseb.png"
+  tags:
+    - extracellular matrix
+    - senescent stem cells
+
 - id: doi:10.1126/sciadv.aaw724
   image: "images/papers/science-advances-july-2019.png"
   tags:
