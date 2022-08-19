@@ -28,7 +28,7 @@
     - TRPM7
     - intravasation
     
- - id: doi:10.1158/1538-7445.AM2021-1354
+- id: doi:10.1158/1538-7445.AM2021-1354
   image: "images/papers/cancer-research-2021.png"
   tags:
     - taxanes
