@@ -46,7 +46,78 @@
   - fluid shear stress
   - TRPM7
   - intravasation
-  image: images/papers/science-advances.png
+  image: images/papers/science-advances-july-2021.png
+- id: doi:10.1083/jcb.201902057
+  title: Confinement hinders motility by inducing RhoA-mediated nuclear influx, volume
+    expansion, and blebbing
+  authors:
+  - Panagiotis Mistriotis
+  - Emily O. Wisniewski
+  - Kaustav Bera
+  - Jeremy Keys
+  - Yizeng Li
+  - Soontorn Tuntithavornwat
+  - Robert A. Law
+  - Nicolas A. Perez-Gonzalez
+  - Eda Erdogmus
+  - Yuqi Zhang
+  - Runchen Zhao
+  - Sean X. Sun
+  - Petr Kalab
+  - Jan Lammerding
+  - Konstantinos Konstantopoulos
+  publisher: Journal of Cell Biology
+  date: '2019-11-05'
+  link: https://doi.org/gg79rf
+  image: images/papers/jcb.jpg
+  tags:
+  - nuclear influx
+  - confinement
+  - RhoA
+  - motility
+- id: doi:10.1096/fj.201900377R
+  title: Restoring extracellular matrix synthesis in senescent stem cells
+  authors:
+  - Na Rong
+  - Panagiotis Mistriotis
+  - Xiaoyan Wang
+  - Georgios Tseropoulos
+  - Nika Rajabian
+  - Yali Zhang
+  - Jianmin Wang
+  - Song Liu
+  - Stelios T. Andreadis
+  publisher: The FASEB Journal
+  date: '2019-07-09'
+  link: https://doi.org/gf6k4c
+  image: images/papers/faseb.png
+  tags:
+  - extracellular matrix
+  - senescent stem cells
+- id: doi:10.1126/sciadv.aaw7243
+  title: 'Cell sensing and decision-making in confinement: The role of TRPM7 in a
+    tug of war between hydraulic pressure and cross-sectional area'
+  authors:
+  - Runchen Zhao
+  - Alexandros Afthinos
+  - Tian Zhu
+  - Panagiotis Mistriotis
+  - Yizeng Li
+  - Selma A. Serra
+  - Yuqi Zhang
+  - Christopher L. Yankaskas
+  - Shuyu He
+  - Miguel A. Valverde
+  - Sean X. Sun
+  - Konstantinos Konstantopoulos
+  publisher: Science Advances
+  date: '2019-07-05'
+  link: https://doi.org/ggd5t6
+  image: images/papers/science-advances-july-2019.png
+  tags:
+  - TRPM7
+  - confinement
+  - hydraulic pressure
 - id: doi:10.1038/s41551-019-0400-9
   title: A microfluidic assay for the quantification of the metastatic propensity
     of breast cancer specimens
