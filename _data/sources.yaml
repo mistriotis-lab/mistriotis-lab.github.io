@@ -18,6 +18,12 @@
 
 # 2020
 
+- id: doi:10.1126/sciadv.aba6505
+  image: "images/papers/science-advances-july-2020.png"
+  tags:
+    - dorsoventral polarity
+    - cell migration
+
 - id: doi:10.1158/1538-7445.MVC2020-PR06
   image: "images/papers/cancer-research-2020.png"
   tags:
