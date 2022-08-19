@@ -81,6 +81,38 @@
   - TRPM7
   - intravasation
   image: images/papers/science-advances-july-2021.png
+- id: doi:10.1016/j.isci.2020.101802
+  title: Myosin 10 Regulates Invasion, Mitosis, and Metabolic Signaling in Glioblastoma
+  authors:
+  - Rajappa S. Kenchappa
+  - Panagiotis Mistriotis
+  - Emily Wisniewski
+  - Santanu Bhattacharya
+  - Tanmay Kulkarni
+  - Rita West
+  - Amanda Luu
+  - Meghan Conlon
+  - Ernest Heimsath
+  - James F. Crish
+  - Hannah S. Picariello
+  - Athanassios Dovas
+  - Natanael Zarco
+  - Montserrat Lara-Velazquez
+  - "Alfredo Qui\xF1ones-Hinojosa"
+  - John A. Hammer
+  - Debrabrata Mukhopadhyay
+  - Richard E. Cheney
+  - Konstantinos Konstantopoulos
+  - Peter Canoll
+  - Steven S. Rosenfeld
+  publisher: iScience
+  date: '2020-12-01'
+  link: https://doi.org/gqn75p
+  image: images/papers/iscience-december-2020.png
+  tags:
+  - myosin 10
+  - glioblastoma
+  - metabolic signaling
 - id: doi:10.1126/sciadv.aba6505
   title: Dorsoventral polarity directs cell responses to migration track geometries
   authors:
