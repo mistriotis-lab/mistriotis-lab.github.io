@@ -18,6 +18,13 @@
 
 # 2019
 
+- id: doi:10.1126/sciadv.aaw724
+  image: "images/papers/science-advances-july-2019.png"
+  tags:
+    - TRPM7
+    - confinement
+    - hydraulic pressure
+
 - id: doi:10.1038/s41551-019-0400-9
   image: "images/papers/nature-biomedical-engineering.png"
   tags:
