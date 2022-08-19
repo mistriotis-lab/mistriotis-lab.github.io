@@ -81,6 +81,32 @@
   - TRPM7
   - intravasation
   image: images/papers/science-advances-july-2021.png
+- id: doi:10.1158/2159-8290.CD-20-0537
+  title: "A Procarcinogenic Colon Microbe Promotes Breast Tumorigenesis and Metastatic\
+    \ Progression and Concomitantly Activates Notch and \u03B2-Catenin Axes"
+  authors:
+  - Sheetal Parida
+  - Shaoguang Wu
+  - Sumit Siddharth
+  - Guannan Wang
+  - Nethaji Muniraj
+  - Arumugam Nagalingam
+  - Christina Hum
+  - Panagiotis Mistriotis
+  - Haiping Hao
+  - C. Conover Talbot
+  - Konstantinos Konstantopoulos
+  - Kathleen L. Gabrielson
+  - Cynthia L. Sears
+  - Dipali Sharma
+  publisher: Cancer Discovery
+  date: '2021-01-06'
+  link: https://doi.org/ghs88t
+  image: images/papers/cancer-discovery-may-2021.png
+  tags:
+  - procarcinogenic microbe
+  - breast tumorigenesis
+  - metastasis
 - id: doi:10.1016/j.isci.2020.101802
   title: Myosin 10 Regulates Invasion, Mitosis, and Metabolic Signaling in Glioblastoma
   authors:
