@@ -26,6 +26,40 @@
   - morphogenesis
   - tissues
   image: images/papers/nature-comm.png
+- id: doi:10.1101/2021.07.05.450786
+  title: Projecting genetic associations through gene expression patterns highlights
+    disease etiology and drug mechanisms
+  authors:
+  - Milton Pividori
+  - Sumei Lu
+  - Binglan Li
+  - Chun Su
+  - Matthew E. Johnson
+  - Wei-Qi Wei
+  - Qiping Feng
+  - Bahram Namjou
+  - Krzysztof Kiryluk
+  - Iftikhar Kullo
+  - Yuan Luo
+  - Blair D. Sullivan
+  - Benjamin F. Voight
+  - Carsten Skarke
+  - Marylyn D. Ritchie
+  - Struan F.A. Grant
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-07-06'
+  link: https://doi.org/gk9g25
+  image: images/papers/biorxiv.jpg
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2022.07.20.500378v1.abstract
+  tags:
+  - pharmacogenomics
+  - single-cell RNAseq
+  - NAMPT inhibitor
+  - prostate cancer
 - id: doi:10.1126/sciadv.abh3457
   title: The fluid shear stress sensor TRPM7 regulates tumor cell intravasation
   authors:
