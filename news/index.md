@@ -11,8 +11,6 @@ nav:
 
 {% include search-info.html %}
 
-{% include section.html %}
-
 {% include list.html data="posts" component="post-excerpt" %}
 
 
