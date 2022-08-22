@@ -7,9 +7,13 @@ nav:
 
 # <i class="fas fa-feather-alt"></i>News
 
+{:.center}
+
 {% include search-box.html %}
 
 {% include search-info.html %}
+
+{% include section.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
 
@@ -25,7 +29,6 @@ nav:
 
 ## Twitter
 
-{:.center}
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
 <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/mistrigr?lang=en">Tweets by mistrigr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
