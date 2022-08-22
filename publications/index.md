@@ -5,7 +5,7 @@ nav:
   tooltip: Publications
 ---
 
-# <i class="fas fa-microscope"></i>Publications
+# <i class="fas fa-book"></i>Publications
 
 {% include search-box.html %}
 
