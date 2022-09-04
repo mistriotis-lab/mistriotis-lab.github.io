@@ -26,30 +26,28 @@
   - morphogenesis
   - tissues
   image: images/papers/nature-comm.png
-- id: doi:10.1101/2021.07.05.450786
-  title: Projecting genetic associations through gene expression patterns highlights
-    disease etiology and drug mechanisms
+- id: doi:10.1101/2022.07.20.500378
+  title: Integrating pharmacogenomics data-driven prediction with bulk and single-cell
+    RNAseq to demonstrate the efficacy of an NAMPT inhibitor against aggressive, taxane-resistant,
+    and stem-like cells in lethal prostate cancer
   authors:
-  - Milton Pividori
-  - Sumei Lu
-  - Binglan Li
-  - Chun Su
-  - Matthew E. Johnson
-  - Wei-Qi Wei
-  - Qiping Feng
-  - Bahram Namjou
-  - Krzysztof Kiryluk
-  - Iftikhar Kullo
-  - Yuan Luo
-  - Blair D. Sullivan
-  - Benjamin F. Voight
-  - Carsten Skarke
-  - Marylyn D. Ritchie
-  - Struan F.A. Grant
-  - Casey S. Greene
+  - Suman Mazumder
+  - Taraswi Mitra Ghosh
+  - Ujjal K. Mukherjee
+  - Sayak Chakravarti
+  - Farshad Amiri
+  - Farnaz Hemmati
+  - Panagiotis Mistriotis
+  - Isra Elhussin
+  - Ahmad-bin Salam
+  - Windy Dean-Colomb
+  - Feng Li
+  - Clayton Yates
+  - Robert D. Arnold
+  - Amit K. Mitra
   publisher: Cold Spring Harbor Laboratory
-  date: '2021-07-06'
-  link: https://doi.org/gk9g25
+  date: '2022-07-22'
+  link: https://doi.org/gqrhgp
   image: images/papers/biorxiv.jpg
   extra-links:
   - type: preprint
