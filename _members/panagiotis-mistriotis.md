@@ -17,4 +17,4 @@ Panagiotis Mistriotis, Ph.D., is an assistant professor in the Department of Che
 
 <br/><br/>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d20149500.89870955!2d-57.63665298154342!3d28.97092239987947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1663462335496!5m2!1sen!2sus" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1uzFlA1yVr9VKCi0uhrvDqMV4HWG5sf0&ehbc=2E312F" width="640" height="480"></iframe>
