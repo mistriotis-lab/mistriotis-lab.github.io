@@ -1,5 +1,27 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1021/acs.nanolett.2c01261
+  title: Migration and 3D Traction Force Measurements inside Compliant Microchannels
+  authors:
+  - Alexandros Afthinos
+  - Kaustav Bera
+  - Junjie Chen
+  - Altug Ozcelikkale
+  - Alice Amitrano
+  - Mohammad Ikbal Choudhury
+  - Randy Huang
+  - Pavlos Pachidis
+  - Panagiotis Mistriotis
+  - Yun Chen
+  - Konstantinos Konstantopoulos
+  publisher: Nano Letters
+  date: '2022-09-15'
+  link: https://doi.org/gqvg7r
+  image: images/papers/nanoletters-sept-2022.png
+  tags:
+  - cell migration
+  - stiffness
+  - 3D traction force
 - id: doi:10.1038/s41467-022-29988-w
   title: Kidney epithelial cells are active mechano-biological fluid pumps
   authors:
