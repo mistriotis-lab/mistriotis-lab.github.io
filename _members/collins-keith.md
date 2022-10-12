@@ -1,8 +1,7 @@
 ---
 name: Collins Keith
 image: images/group-members/collins.jpg
-role: phd
-group: undergrad
+role: undergrad
 aliases:
   - C. Keith
 links:
