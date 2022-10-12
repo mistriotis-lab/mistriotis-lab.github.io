@@ -2,7 +2,6 @@
 name: Farshad Amiri
 image: images/group-members/farshad.jpg
 role: phd
-group: alum
 aliases:
   - F. Amiri
 links:
