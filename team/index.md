@@ -56,6 +56,6 @@ The Mistriotis Lab is always looking for talented and qualified new people. Inte
 
 {%
   include figure.html
-  image="images/group-photos/Group-photo.jpg"
+  image="images/group-photos/2022/Group-photo.jpg"
   width="100%"
 %}
