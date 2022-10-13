@@ -16,7 +16,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   component="portrait"
   filters="role: pi"
 %}  
-<br/>  
+ 
 ## PhD Students
 {%
   include list.html
@@ -24,7 +24,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   component="portrait"
   filters="role: phd"
 %}  
-<br/> 
+
 ## Undergraduate Students
 {%
   include list.html
