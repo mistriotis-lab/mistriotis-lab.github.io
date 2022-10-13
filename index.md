@@ -12,7 +12,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/group-photos/2022/Group-photo.jpg" %}
+{% include banner.html image="images/group-photos/2021/Group-photo-2021.jpg" %}
 
 {% include section.html %}
 
@@ -42,7 +42,7 @@ Learn more about the members of Mistriotis Lab.
 
 {%
   include feature.html
-  image="images/group-photos/2022/Group-photo.jpg"
+  image="images/group-photos/2022/Group-photo-2022.jpg"
   link="team"
   headline="Our Team"
   text=text
