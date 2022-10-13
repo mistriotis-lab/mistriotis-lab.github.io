@@ -32,7 +32,5 @@ nav:
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
 <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/mistrigr?lang=en">Tweets by mistrigr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
 
 <a href="https://twitter.com/mistrigr?lang=en" class="twitter-follow-button" data-show-count="false">Follow @mistrigr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
