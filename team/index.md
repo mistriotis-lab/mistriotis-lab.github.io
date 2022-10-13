@@ -14,19 +14,22 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   data="members"
   component="portrait"
   filters="role: pi"
-%}<br/>
+%}  
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: postdoc"
-%}<br/>
+%}  
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
-%}<br/>
+%}  
+
 {%
   include list.html
   data="members"
