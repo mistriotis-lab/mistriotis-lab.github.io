@@ -12,7 +12,7 @@ nav:
 {%
   include figure.html
   image="images/research/research_schematic2.png"
-  width="650px"
+  width="1000px"
 %}
 
 Our research explores the use of **engineering biophysics**, **cell and molecular biology** and **biochemistry** to address critical issues in aging, cardiovascular diseases and cancer metastasis. Our key contributions are: 1) the development of a method to reverse stem cell aging for vascular rejuvenation; 2) the discovery of intracellular mechanisms regulating cell mechanosensing in confinement; 3) the development of a reporter-based system for quantifying gene and pathway activation.
