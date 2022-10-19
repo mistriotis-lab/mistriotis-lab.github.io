@@ -49,7 +49,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. Le
 %}
 
 {% capture text %}
-Check out the latest news from the Mistrotis Lab.
+What have we been up to? Check out the latest news from the Mistrotis Lab.
 
 [News &nbsp;→](news)
 {:.center}
