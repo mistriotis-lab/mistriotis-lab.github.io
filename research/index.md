@@ -50,17 +50,8 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 
 {% include section.html %}
 
-## Research funding details
+## Research funding in detail
 
-{:.center}
-<p float="left">
-  <img src="/images/research/nih.png" width="160" />
-  <img src="/images/research/AHA.jpg" width="170" /> 
-  <img src="/images/research/BCRFA.png" width="160" />
-  <img src="/images/research/nbf.png" width="170" />
-  <img src="/images/research/auburn2.png" width="160" />
-</p>
- 
 1.  **Sponsor**: National Institute of Health        
     **Project title**: Cell mechanoresponses in physiologically relevant microenvironments       
     **Budget**: $1,865,315     
