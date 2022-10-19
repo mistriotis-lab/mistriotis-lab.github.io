@@ -11,7 +11,7 @@ nav:
 
 {%
   include figure.html
-  image="images/research/research_schematic.png"
+  image="images/research/research_schematic2.png"
   width="650px"
 %}
 
