@@ -34,7 +34,7 @@ Our research lies at the interface of engineering, biophysics, cell & molecular 
 %}
 
 {% capture text %}
-Learn more about the members of Mistriotis Lab.
+Our lab is made up of a highly engaged and collaborative team of researchers. Learn more about the members of Mistriotis Lab.
 
 [Meet our team &nbsp;→](team)
 {:.center}
