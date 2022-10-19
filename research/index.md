@@ -29,6 +29,29 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 
 ## Research Funding
 
+{%
+  include gallery.html
+
+  image1="images/research/nih.png"
+  tooltip1="National Institute of Health"
+
+  image2="images/research/AHA.jpg"
+  tooltip2="American Heart Association"
+
+  image3="images/research/BCRFA.png"
+  tooltip3="Breast Cancer Research Foundation of Alabama"
+
+  image4="images/research/nbf.png"
+  tooltip4="National Blood Foundation"
+
+  image5="images/research/auburn2.png"
+  tooltip5="Office of the Vice President for Research and Economic Development, Auburn University"
+%}
+
+{% include section.html %}
+
+## Research funding details
+
 {:.center}
 <p float="left">
   <img src="/images/research/nih.png" width="160" />
