@@ -1,5 +1,33 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1038/s41467-022-33683-1
+  title: Polarized NHE1 and SWELL1 regulate migration direction, efficiency and metastasis
+  authors:
+  - Yuqi Zhang
+  - Yizeng Li
+  - Keyata N. Thompson
+  - Konstantin Stoletov
+  - Qinling Yuan
+  - Kaustav Bera
+  - Se Jong Lee
+  - Runchen Zhao
+  - Alexander Kiepas
+  - Yao Wang
+  - Panagiotis Mistriotis
+  - Selma A. Serra
+  - John D. Lewis
+  - Miguel A. Valverde
+  - Stuart S. Martin
+  - Sean X. Sun
+  - Konstantinos Konstantopoulos
+  publisher: Nature Communications
+  date: '2022-10-17'
+  link: https://doi.org/gq4vn6
+  tags:
+  - cell migration
+  - metastasis
+  - SWELL1
+  - polarized NHE1
 - id: doi:10.1021/acs.nanolett.2c01261
   title: Migration and 3D Traction Force Measurements inside Compliant Microchannels
   authors:
