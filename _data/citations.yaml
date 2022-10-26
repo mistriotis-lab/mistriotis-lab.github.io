@@ -28,6 +28,9 @@
   - metastasis
   - SWELL1
   - polarized NHE1
+  extra-links:
+  - type: source
+    link: https://doi.org/10.5281/zenodo.7105392
 - id: doi:10.1021/acs.nanolett.2c01261
   title: Migration and 3D Traction Force Measurements inside Compliant Microchannels
   authors:
