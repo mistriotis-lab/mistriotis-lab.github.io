@@ -1,5 +1,42 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1038/s41586-022-05394-6
+  title: Extracellular fluid viscosity enhances cell migration and cancer dissemination
+  authors:
+  - Kaustav Bera
+  - Alexander Kiepas
+  - "In\xEAs Godet"
+  - Yizeng Li
+  - Pranav Mehta
+  - Brent Ifemembi
+  - Colin D. Paul
+  - Anindya Sen
+  - Selma A. Serra
+  - Konstantin Stoletov
+  - Jiaxiang Tao
+  - Gabriel Shatkin
+  - Se Jong Lee
+  - Yuqi Zhang
+  - Adrianna Boen
+  - Panagiotis Mistriotis
+  - Daniele M. Gilkes
+  - John D. Lewis
+  - Chen-Ming Fan
+  - Andrew P. Feinberg
+  - Miguel A. Valverde
+  - Sean X. Sun
+  - Konstantinos Konstantopoulos
+  publisher: Nature
+  date: '2022-11-02'
+  link: https://doi.org/gq6ncw
+  image: images/papers/nature.png
+  tags:
+  - cell migration
+  - extracellular fluid viscosity
+  - cancer metastasis
+  extra-links:
+  - type: source
+    link: https://doi.org/10.1038/s41586-022-05394-6
 - id: doi:10.1038/s41467-022-33683-1
   title: Polarized NHE1 and SWELL1 regulate migration direction, efficiency and metastasis
   authors:
