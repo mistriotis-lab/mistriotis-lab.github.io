@@ -6,9 +6,6 @@
     - cell migration
     - extracellular fluid viscosity
     - cancer metastasis
-  extra-links:
-    - type: source
-      link: https://doi.org/10.1038/s41586-022-05394-6
       
 - id: doi:10.1038/s41467-022-33683-1
   image: "images/papers/nature-comm.png"
