@@ -42,7 +42,7 @@ We are located on the 1st floor of the Wilmore Laboratories.
 
 {%
   include figure.html
-  image="videos/auburn_campus.gif"
+  image="videos/auburn-campus.gif"
   width="1000px"
 %}
 
