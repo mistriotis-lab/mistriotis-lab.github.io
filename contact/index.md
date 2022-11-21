@@ -97,8 +97,9 @@ USA
 
 - Auburn University has its own airport, the [Auburn University Regional Airport](https://en.wikipedia.org/wiki/Auburn_University_Regional_Airport).
 
-
 {:.center}
+
+{% include section.html %}
 
 {%
   include figure.html
