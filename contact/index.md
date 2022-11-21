@@ -40,14 +40,6 @@ We are located on the 1st floor of the Wilmore Laboratories.
 
 {:.center}
 
-{%
-  include figure.html
-  image="videos/auburn-campus.gif"
-  width="1000px"
-%}
-
-{:.center}
-
 {% include section.html %}
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
@@ -107,3 +99,10 @@ USA
 
 
 {:.center}
+
+{%
+  include figure.html
+  image="videos/auburn-campus.gif"
+  width="1000px"
+%}
+
