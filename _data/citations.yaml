@@ -1,5 +1,33 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.3390/cancers14236009
+  title: Integrating Pharmacogenomics Data-Driven Computational Drug Prediction with
+    Single-Cell RNAseq to Demonstrate the Efficacy of a NAMPT Inhibitor against Aggressive,
+    Taxane-Resistant, and Stem-like Cells in Lethal Prostate Cancer
+  authors:
+  - Suman Mazumder
+  - Taraswi Mitra Ghosh
+  - Ujjal K. Mukherjee
+  - Sayak Chakravarti
+  - Farshad Amiri
+  - Razan S. Waliagha
+  - Farnaz Hemmati
+  - Panagiotis Mistriotis
+  - Salsabil Ahmed
+  - Isra Elhussin
+  - Ahmad-Bin Salam
+  - Windy Dean-Colomb
+  - Clayton Yates
+  - Robert D. Arnold
+  - Amit K. Mitra
+  publisher: Cancers
+  date: '2022-12-06'
+  link: https://doi.org/grmzpq
+  image: images/papers/cancers.jpg
+  tags:
+  - single-cell RNAseq
+  - pharmacogenomics
+  - prostate cancer
 - id: doi:10.1038/s41586-022-05394-6
   title: Extracellular fluid viscosity enhances cell migration and cancer dissemination
   authors:
