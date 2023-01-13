@@ -7,6 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
+{:.center}
+
 Our lab is part of the [Department of Chemical Engineering](https://www.eng.auburn.edu/chen/), at the [Samuel Gin College of Engineering, Auburn University](https://eng.auburn.edu/).
 We are located on the 1st floor of the Wilmore Laboratories.
 
