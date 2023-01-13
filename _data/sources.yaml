@@ -1,5 +1,12 @@
 # 2022
 
+- id: doi:10.3390/cancers14236009
+  image: "images/papers/cancers.jpg"
+  tags:
+    - single-cell RNAseq
+    - pharmacogenomics
+    - prostate cancer
+
 - id: doi:10.1038/s41586-022-05394-6
   image: "images/papers/nature.png"
   tags:
