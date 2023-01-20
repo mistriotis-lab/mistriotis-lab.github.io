@@ -1,5 +1,32 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1126/sciadv.abq6480
+  title: Cytokinesis machinery promotes cell dissociation from collectively migrating
+    strands in confinement
+  authors:
+  - Robert A. Law
+  - Alexander Kiepas
+  - Habben E. Desta
+  - "Emiliano Perez Ipi\xF1a"
+  - Maria Parlani
+  - Se Jong Lee
+  - Christopher L. Yankaskas
+  - Runchen Zhao
+  - Panagiotis Mistriotis
+  - Nianchao Wang
+  - Zhizhan Gu
+  - Petr Kalab
+  - Peter Friedl
+  - Brian A. Camley
+  - Konstantinos Konstantopoulos
+  publisher: Science Advances
+  date: '2023-01-13'
+  link: https://doi.org/grn9r9
+  image: images/papers/science-advances-july-2023.png
+  tags:
+  - cytokinesis
+  - cell dissemination
+  - confinement
 - id: doi:10.3390/cancers14236009
   title: Integrating Pharmacogenomics Data-Driven Computational Drug Prediction with
     Single-Cell RNAseq to Demonstrate the Efficacy of a NAMPT Inhibitor against Aggressive,
