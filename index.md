@@ -12,7 +12,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="videos/research_movie.gif" %}
+{% include banner.html image="videos/main.gif" %}
 
 {% include section.html %}
 
