@@ -57,7 +57,7 @@ What have we been up to? Check out the latest news from the Mistrotis Lab.
 
 {%
   include feature.html
-  image="images/auburn/Auburn_campus4.jpg"
+  image="images/news/2023/advanced-science-schematic.jpg"
   link="news"
   headline="Our News"
   text=text
