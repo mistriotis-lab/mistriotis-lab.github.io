@@ -1,5 +1,30 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1002/advs.202302228
+  title: Downregulation of YAP Activity Restricts P53 Hyperactivation to Promote Cell
+    Survival in Confinement
+  authors:
+  - Farnaz Hemmati
+  - Ayuba Akinpelu
+  - Jiyeon Song
+  - Farshad Amiri
+  - Anya McDaniel
+  - Collins McMurray
+  - Alexandros Afthinos
+  - Stelios T. Andreadis
+  - Andrew V. Aitken
+  - Vinicia C. Biancardi
+  - Sharon Gerecht
+  - Panagiotis Mistriotis
+  publisher: Advanced Science
+  date: '2023-06-02'
+  link: https://doi.org/gscqsh
+  image: images/papers/advanced-science-june-2023.jpg
+  tags:
+  - cell migration
+  - YAP activity
+  - confinement
+  - P53 activation
 - id: doi:10.1126/sciadv.abq6480
   title: Cytokinesis machinery promotes cell dissociation from collectively migrating
     strands in confinement
