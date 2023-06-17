@@ -20,7 +20,7 @@ nav:
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/news/2023/advanced-science-schematic.jpg" %}
+{% include banner.html image="images/auburn/Auburn_campus3.jpg" %}
 
 {:.center}
 
