@@ -11,7 +11,7 @@ nav:
 
 {%
   include figure.html
-  image="images/research/research_schematic2.png"
+  image="videos/schematic_data_movie.mov"
   width="1000px"
 %}
 
