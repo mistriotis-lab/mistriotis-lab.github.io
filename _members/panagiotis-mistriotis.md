@@ -5,7 +5,7 @@ role: pi
 aliases:
   - P. Mistriotis
 links:
-  google-scholar: https://scholar.google.com/citations?user=diB7rg0AAAAJ&hl=en
+  google-scholar: Panagiotis Mistriotis, Ph.D.
   cv: https://eng.auburn.edu/resumes/pzm0049
   orcid: 0000-0002-8069-3278
   email: pmistriotis@auburn.edu
