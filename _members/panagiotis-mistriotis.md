@@ -20,4 +20,4 @@ in the Samuel Ginn College of Engineering at Auburn University. He received his 
 
 <br/>
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1uzFlA1yVr9VKCi0uhrvDqMV4HWG5sf0&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1uzFlA1yVr9VKCi0uhrvDqMV4HWG5sf0&ehbc=2E312F" width="640" height="480"></iframe>
