@@ -9,6 +9,11 @@ nav:
 
 {:.center}
 
+<video controls>
+  <source src="videos/research-movie.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
 {%
   include figure.html
   image="videos/research_movie.gif"
