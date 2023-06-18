@@ -9,15 +9,10 @@ nav:
 
 {:.center}
 
-<video controls>
-  <source src="videos/research-movie.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
-
 {%
   include figure.html
-  image="videos/research_movie.gif"
-  width="1000px"
+  image="videos/research-movie.gif"
+  width="1200px"
 %}
 
 Our research explores the use of **engineering biophysics**, **cell and molecular biology** and **biochemistry** to address critical issues in aging, cardiovascular diseases and cancer metastasis. Our key contributions are: 1) the development of a method to reverse stem cell aging for vascular rejuvenation; 2) the discovery of intracellular mechanisms regulating cell mechanosensing in confinement; 3) the development of a reporter-based system for quantifying gene and pathway activation.
