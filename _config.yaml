@@ -11,7 +11,7 @@ baseurl: ""
 # site social media and other links
 links:
   email: pmistriotis@auburn.edu
-  google-scholar: Panagiotis Mistriotis, Ph.D.
+  google-scholar: https://scholar.google.com/citations?user=diB7rg0AAAAJ&hl=en
   github: mistriotis-lab
   twitter: mistrigr
 
