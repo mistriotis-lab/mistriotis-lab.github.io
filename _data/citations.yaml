@@ -1,5 +1,35 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1158/2767-9764.CRC-22-0427
+  title: "Metronomic Administration of Topotecan Alone and in Combination with Docetaxel\
+    \ Inhibits Epithelial\u2013mesenchymal Transition in Aggressive Variant Prostate\
+    \ Cancers"
+  authors:
+  - Taraswi Mitra Ghosh
+  - Suman Mazumder
+  - Joshua Davis
+  - Jyoti Yadav
+  - Ayuba Akinpelu
+  - Ahmed Alnaim
+  - Harish Kumar
+  - Razan Waliagha
+  - Allison E. Church Bird
+  - Soroush Rais-Bahrami
+  - R. Curtis Bird
+  - Panagiotis Mistriotis
+  - Amarjit Mishra
+  - Clayton C. Yates
+  - Amit K. Mitra
+  - Robert D. Arnold
+  publisher: Cancer Research Communications
+  date: '2023-07-19'
+  link: https://doi.org/gsjhp4
+  image: images/papers/cancer-research-2023.jpg
+  tags:
+  - prostate cancer
+  - chemotherapy
+  - topotecan
+  - topotecan
 - id: doi:10.1002/advs.202302228
   title: Downregulation of YAP Activity Restricts P53 Hyperactivation to Promote Cell
     Survival in Confinement
