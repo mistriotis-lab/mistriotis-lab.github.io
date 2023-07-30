@@ -1,5 +1,13 @@
 # 2023
 
+- id: doi:10.1158/2767-9764.CRC-22-0427
+  image: "images/papers/cancer-research-2023.jpg"
+  tags:
+    - prostate cancer
+    - chemotherapy
+    - topotecan
+    - topotecan
+
 - id: doi:10.1002/advs.202302228
   image: "images/papers/advanced-science-june-2023.jpg"
   tags:
