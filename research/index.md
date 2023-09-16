@@ -53,31 +53,37 @@ Our team combines bioengineering assays (e.g. microfluidics), (stem) cell engine
 ## Research funding in detail
 
 1.  **Sponsor**: National Institute of Health        
+    **Project title**: Administrative supplement for the purchase of a confocal microscope       
+    **Budget**: $250,000  
+    **Dates**: 07/01/2023-06/30/2024     
+    **PI**: Dr. Panagiotis Mistriotis     
+<br/>  
+2.  **Sponsor**: National Institute of Health        
     **Project title**: Cell mechanoresponses in physiologically relevant microenvironments       
     **Budget**: $1,865,315     
     **Dates**: 08/10/2022-06/31/2027     
     **PI**: Dr. Panagiotis Mistriotis   
 <br/>  
-2.  **Sponsor**: American Heart Association        
+3.  **Sponsor**: American Heart Association        
     **Project title**: The contributions of cytokinesis proteins to smooth muscle cell function in health and disease        
     **Budget**: $231,000         
     **Dates**: 04/01/2022-03/31/2025     
     **PI**: Dr. Panagiotis Mistriotis  
 <br/>  
-3.  **Sponsor**: Breast Cancer Research Foundation of Alabama      
+4.  **Sponsor**: Breast Cancer Research Foundation of Alabama      
     **Project title**: Integrating bioengineering tools, genome-wide genetic screens and in vivo models to discover
 new determinants of triple negative breast cancer cell invasion          
     **Budget**: $69,414         
     **Dates**: 12/15/2021-12/14/2022   
     **PIs**: Dr. Panagiotis Mistriotis (70%), Dr. Robert Rusty Arnold (30%)  
 <br/>
-4.  **Sponsor**: National Blood Foundation        
+5.  **Sponsor**: National Blood Foundation        
     **Project title**: Eliminating senescent bone marrow-derived mesenchymal stem cells using microfluidics          
     **Budget**: $74,868         
     **Dates**: 07/01/2021-06/30/2023     
     **PI**: Dr. Panagiotis Mistriotis  
 <br/>
-5.  **Sponsor**: Office of the Vice President for Research and Economic Development, Auburn University          
+6.  **Sponsor**: Office of the Vice President for Research and Economic Development, Auburn University          
     **Project title**: Bioengineering tools to uncover the mechanisms of human mesenchymal stem cell migration            
     **Budget**: $50,000           
     **Dates**: 07/01/2021-06/30/2023     
