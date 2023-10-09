@@ -51,6 +51,14 @@ The Mistriotis Lab is always looking for talented and qualified new people. Inte
 
 # Gallery
 
+## 2023
+
+{%
+  include figure.html
+  image="images/group-photos/2023/Group-photo-2023.jpg"
+  width="100%"
+%}
+
 ## 2022
 
 {%
