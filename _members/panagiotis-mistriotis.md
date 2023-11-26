@@ -6,7 +6,7 @@ aliases:
   - P. Mistriotis
 links:
   google-scholar: citations?user=diB7rg0AAAAJ&hl=en
-  cv: https://eng.auburn.edu/resumes/pzm0049
+  cv: images/group-members/PANAGIOTIS_MISTRIOTIS_CV_AU_September_2023.pdf
   orcid: 0000-0002-8069-3278
   email: pmistriotis@auburn.edu
   linkedin: panagiotis-mistriotis-4141582b
