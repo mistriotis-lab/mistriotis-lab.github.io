@@ -1,3 +1,21 @@
+# 2024
+
+- id: doi:10.1016/j.tcb.2024.01.001
+  image: "images/papers/trends-in-cell-biology.jpg"
+  tags:
+    - cell nucleus
+    - confinement
+    - cell migration
+    - mechanosensation
+
+- id: doi:10.1007/s10555-024-10166-x
+  image: "images/papers/cancer-and-metastasis-reviews.png"
+  tags:
+    - metastasis
+    - breast cancer
+    - physical stimuli
+    - cell migration
+
 # 2023
 
 - id: doi:10.1158/2767-9764.CRC-22-0427
