@@ -1,5 +1,41 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1016/j.tcb.2024.01.001
+  title: 'Coordinated in confined migration: crosstalk between the nucleus and ion
+    channel-mediated mechanosensation'
+  authors:
+  - Panagiotis Mistriotis
+  - Emily O. Wisniewski
+  - Bishwa R. Si
+  - Petr Kalab
+  - Konstantinos Konstantopoulos
+  publisher: Trends in Cell Biology
+  date: '2024-01-01'
+  link: https://doi.org/gtgv85
+  image: images/papers/trends-in-cell-biology.jpg
+  tags:
+  - cell nucleus
+  - confinement
+  - cell migration
+  - mechanosensation
+- id: doi:10.1007/s10555-024-10166-x
+  title: 'The impact of tumor microenvironment: unraveling the role of physical cues
+    in breast cancer progression'
+  authors:
+  - Ayuba Akinpelu
+  - Tosin Akinsipe
+  - L. Adriana Avila
+  - Robert D. Arnold
+  - Panagiotis Mistriotis
+  publisher: Cancer and Metastasis Reviews
+  date: '2024-01-19'
+  link: https://doi.org/gtgfcf
+  image: images/papers/cancer-and-metastasis-reviews.png
+  tags:
+  - metastasis
+  - breast cancer
+  - physical stimuli
+  - cell migration
 - id: doi:10.1158/2767-9764.CRC-22-0427
   title: "Metronomic Administration of Topotecan Alone and in Combination with Docetaxel\
     \ Inhibits Epithelial\u2013mesenchymal Transition in Aggressive Variant Prostate\
