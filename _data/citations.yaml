@@ -1,5 +1,25 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.3389/fimmu.2024.1302587
+  title: 'Cellular interactions in tumor microenvironment during breast cancer progression:
+    new frontiers and implications for novel therapeutics'
+  authors:
+  - Tosin Akinsipe
+  - Rania Mohamedelhassan
+  - Ayuba Akinpelu
+  - Satyanarayana R. Pondugula
+  - Panagiotis Mistriotis
+  - L. Adriana Avila
+  - Amol Suryawanshi
+  publisher: Frontiers in Immunology
+  date: '2024-03-12'
+  link: https://doi.org/gtvsr6
+  image: images/papers/frontiers-in-immumology-2024.jpg
+  tags:
+  - breast cancer
+  - tumor progression
+  - tumor microenvironment
+  - metastasis
 - id: doi:10.1016/j.tcb.2024.01.001
   title: 'Coordinated in confined migration: crosstalk between the nucleus and ion
     channel-mediated mechanosensation'
