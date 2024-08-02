@@ -1,5 +1,13 @@
 # 2024
 
+- id: doi:10.1007/s12195-024-00807-0
+  image: "images/papers/cellular-and-molecular-bioengineering.png"
+  tags:
+    - cell migration
+    - human mesenchymal stem cells
+    - senescent stem cel
+    - presenescent stem cel
+
 - id: doi:10.3389/fimmu.2024.1302587
   image: "images/papers/frontiers-in-immumology-2024.jpg"
   tags:
