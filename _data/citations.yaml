@@ -1,5 +1,20 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1007/s12195-024-00807-0
+  title: Leveraging Cell Migration Dynamics to Discriminate Between Senescent and
+    Presenescent Human Mesenchymal Stem Cells
+  authors:
+  - Farshad Amiri
+  - Panagiotis Mistriotis
+  publisher: Cellular and Molecular Bioengineering
+  date: '2024-07-20'
+  link: https://doi.org/gt5wj5
+  image: images/papers/cellular-and-molecular-bioengineering.png
+  tags:
+  - cell migration
+  - human mesenchymal stem cells
+  - senescent stem cel
+  - presenescent stem cel
 - id: doi:10.3389/fimmu.2024.1302587
   title: 'Cellular interactions in tumor microenvironment during breast cancer progression:
     new frontiers and implications for novel therapeutics'
