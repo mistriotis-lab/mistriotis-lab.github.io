@@ -21,7 +21,8 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 
 {% include section.html %}
-# Alumni
+
+## Alumni
 
 Gone but never forgotten. These are past lab members who have moved on to other graduate school programs, new jobs in  academia or the  industry, or elsewhere. They have all made lasting contributions to our Lab and to science! 
 
