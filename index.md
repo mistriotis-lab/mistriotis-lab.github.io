@@ -2,11 +2,7 @@
 title: Home
 ---
 
-# Mistriotis Laboratory at Auburn University
-
-{:.center}
-❝ Leveraging engineering, biophysics, cell & molecular biology and biochemistry to develop therapeutic interventions to treat aging, cardiovascular diseases and cancer. ❞
-
+The Mistriotis Lab is a team of researchers at [Auburn University](https://www.auburn.edu/), [Department of Chemical Engineering](https://www.eng.auburn.edu/chen/#gsc.tab=0) dedicated to answering important questions in cell biology. We focus on leveraging engineering, biophysics, cell & molecular biology and biochemistry to develop therapeutic interventions to treat aging, cardiovascular diseases and cancer.
 
 {:.center}
 
