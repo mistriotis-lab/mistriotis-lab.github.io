@@ -1,5 +1,29 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1016/j.celrep.2024.114692
+  title: Confinement controls the directional cell responses to fluid forces
+  authors:
+  - Farshad Amiri
+  - Ayuba A. Akinpelu
+  - William C. Keith
+  - Farnaz Hemmati
+  - Ravi S. Vaghasiya
+  - Dylan Bowen
+  - Razan S. Waliagha
+  - Chuanyu Wang
+  - Pengyu Chen
+  - Amit K. Mitra
+  - Yizeng Li
+  - Panagiotis Mistriotis
+  publisher: Cell Reports
+  date: '2024-09-01'
+  link: https://doi.org/gt8c6q
+  image: images/papers/cell-reports-august-2024.png
+  tags:
+  - upstream cell migration
+  - tight confinement
+  - chemotaxis
+  - metastatic tumor cells
 - id: doi:10.1007/s12195-024-00807-0
   title: Leveraging Cell Migration Dynamics to Discriminate Between Senescent and
     Presenescent Human Mesenchymal Stem Cells
