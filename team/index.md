@@ -3,6 +3,12 @@ title: Team
 nav:
   order: 3
   tooltip: About our team
+redirect_from:
+  - /lab-members
+  - /alums
+  - /mascots
+  - /staff
+  - /trainees
 ---
 
 # <i class="fas fa-users"></i>Team
