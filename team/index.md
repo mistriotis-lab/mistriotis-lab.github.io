@@ -20,6 +20,15 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 
+# Alumni
+
+Gone but never forgotten. These are past lab members who have moved on to other graduate school programs, new jobs in  academia or the  industry, or elsewhere. They have all made lasting contributions to our Lab and to science! 
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+
 {:.center}
 
 {% include section.html dark=true %}
@@ -34,17 +43,6 @@ The Mistriotis Lab is always looking for talented and qualified new people. Inte
   style="button"
 %}
 {:.center}
-
-{% include section.html %}
-
-# Alumni
-
-Gone but never forgotten. These are past lab members who have moved on to other graduate school programs, new jobs in  academia or the  industry, or elsewhere. They have all made lasting contributions to our Lab and to science! 
-
-{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
 
 {% include section.html %}
 
