@@ -20,29 +20,6 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 
-## Principal Investigator
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}  
- 
-## PhD Students
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}  
-
-## Undergraduate Students
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad"
-%}
 {:.center}
 
 {% include section.html dark=true %}
