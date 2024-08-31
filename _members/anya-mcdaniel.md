@@ -7,6 +7,7 @@ aliases:
 links:
   email: ACM0139@auburn.edu
   linkedin: anya-mcdaniel-64661a203
+group: alum
   
 ---
 
