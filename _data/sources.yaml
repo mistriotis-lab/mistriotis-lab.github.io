@@ -1,5 +1,13 @@
 # 2024
 
+- id: doi:10.1016/j.celrep.2024.114692
+  image: "images/papers/cell-reports-august-2024.png"
+  tags:
+    - upstream cell migration
+    - tight confinement
+    - chemotaxis
+    - metastatic tumor cells
+    
 - id: doi:10.1007/s12195-024-00807-0
   image: "images/papers/cellular-and-molecular-bioengineering.png"
   tags:
