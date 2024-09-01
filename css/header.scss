@@ -1,86 +1,166 @@
 ---
 ---
 
-@import "palettes";
-@import "theme";
-@import "mixins";
+$logo-big: 80px;
+$logo: 40px;
+$big-padding: 100px;
+$collapse: 700px;
+$sticky: true;
 
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  padding: 30px;
-  color: $white;
-  background: $gray-800;
-  box-shadow: $shadow;
+  gap: 20px;
+  padding: 20px;
+  box-shadow: var(--shadow);
 
-  & * {
-    font-family: $sans;
+  @if $sticky {
+    position: sticky !important;
+    top: 0;
+    z-index: 10 !important;
   }
+}
 
-  .logo_row {
-    @include inline-flex-center;
+header a {
+  color: var(--text);
+  text-decoration: none;
+}
 
-    .logo {
-      max-width: 110%;
-      height: 60px;
+.home {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%;
+}
+
+.logo {
+  height: $logo;
+}
+
+.logo > * {
+  height: 100%;
+}
+
+.title-text {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 5px;
+  min-width: 0;
+  font-family: var(--title);
+  text-align: left;
+}
+
+.title {
+  font-size: var(--large);
+}
+
+.subtitle {
+  opacity: 0.65;
+  font-weight: var(--thin);
+}
+
+.nav-toggle {
+  display: none;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  margin: 0;
+  color: var(--text);
+  appearance: none;
+  transition: background var(--transition);
+}
+
+.nav-toggle:after {
+  content: "\f0c9";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  color: var(--text);
+  font-size: 15px;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  transform: translate(-50%, -50%);
+}
+
+.nav-toggle:checked:after {
+  content: "\f00d";
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-family: var(--heading);
+  text-transform: uppercase;
+}
+
+nav > a {
+  padding: 5px;
+}
+
+nav > a:hover {
+  color: var(--primary);
+}
+
+header:not([data-big]) {
+  @media (max-width: $collapse) {
+    justify-content: flex-end;
+
+    .nav-toggle {
+      display: flex;
     }
 
-    .logo_text {
-      margin: 15px;
-      font-size: 2rem;
-      text-align: center;
-    }
-  }
-
-  .nav_row {
-    @include inline-flex-center;
-    font-size: 5rem;
-    font-weight: $regular;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-
-    &:hover .link {
-      opacity: 0.25;
+    .nav-toggle:not(:checked) + nav {
+      display: none;
     }
 
-    .link:hover {
-      opacity: 1;
-    }
-  }
-
-  a {
-    color: currentColor;
-    text-decoration: none;
-  }
-
-  // screen width where nav bar wraps to under logo
-  // adjust based on length of your lab title and # of nav links
-  @media (max-width: 900px) {
-    align-content: center;
-
-    .logo_row,
-    .nav_row {
-      width: 85%;
-    }
-  }
-
-  // screen width where logo and nav bar go from horizontal to vertical
-  // adjust based on length of your lab title and # of nav links
-  @media (max-width: 600px) {
-    .logo_row {
+    nav {
+      align-items: flex-end;
       flex-direction: column;
-    }
-
-    .nav_row {
-      flex-direction: column;
-      justify-content: center;
       width: 100%;
-
-      .link {
-        width: 100%;
-      }
     }
+  }
+}
+
+header[data-big] {
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: $big-padding 20px;
+
+  @if $sticky {
+    top: unset;
+  }
+
+  .home {
+    flex-direction: column;
+    flex-grow: 0;
+  }
+
+  .logo {
+    height: $logo-big;
+  }
+
+  .title-text {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .title {
+    font-size: var(--xxl);
+  }
+
+  .subtitle {
+    font-size: var(--large);
   }
 }
