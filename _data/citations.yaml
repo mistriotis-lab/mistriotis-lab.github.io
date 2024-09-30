@@ -1,5 +1,23 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1002/aic.18598
+  title: "Differential effects of confinement\u2010induced <scp>reactive oxygen species</scp>\
+    \ accumulation on highly motile cancerous and non\u2010cancerous cells"
+  authors:
+  - William Collins Keith
+  - Farnaz Hemmati
+  - Ravi Sureshbhai Vaghasiya
+  - Farshad Amiri
+  - Panagiotis Mistriotis
+  publisher: AIChE Journal
+  date: '2024-09-04'
+  link: https://doi.org/g588sg
+  image: images/papers/aiche-journal.png
+  tags:
+  - reactive oxygen species
+  - confined migration
+  - fibrosarcoma cells
+  - human dermal fibroblasts
 - id: doi:10.1016/j.celrep.2024.114692
   title: Confinement controls the directional cell responses to fluid forces
   authors:
