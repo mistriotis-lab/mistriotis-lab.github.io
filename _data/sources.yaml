@@ -1,5 +1,13 @@
 # 2024
 
+- id: doi:10.1002/aic.18598
+  image: "images/papers/aiche-journal.png"
+  tags:
+    - reactive oxygen species
+    - confined migration
+    - fibrosarcoma cells
+    - human dermal fibroblasts
+
 - id: doi:10.1016/j.celrep.2024.114692
   image: "images/papers/cell-reports-august-2024.png"
   tags:
