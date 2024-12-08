@@ -1,5 +1,12 @@
 # 2024
 
+- id: doi:10.1063/5.0225569
+  image: "images/papers/apl-bioengineering.png"
+  tags:
+    - vascular smooth muscle cells
+    - 3D confinement 
+    - cell migration
+
 - id: doi:10.1002/aic.18598
   image: "images/papers/aiche-journal.png"
   tags:
