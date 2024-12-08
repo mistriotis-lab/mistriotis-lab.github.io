@@ -1,5 +1,21 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1063/5.0225569
+  title: 3D confinement alters smooth muscle cell responses to chemical and mechanical
+    cues
+  authors:
+  - Farnaz Hemmati
+  - Ayuba Akinpelu
+  - Daniel Chinedu Nweze
+  - Panagiotis Mistriotis
+  publisher: APL Bioengineering
+  date: '2024-10-25'
+  link: https://doi.org/g8t3mn
+  image: images/papers/apl-bioengineering.png
+  tags:
+  - vascular smooth muscle cells
+  - 3D confinement
+  - cell migration
 - id: doi:10.1002/aic.18598
   title: "Differential effects of confinement\u2010induced <scp>reactive oxygen species</scp>\
     \ accumulation on highly motile cancerous and non\u2010cancerous cells"
