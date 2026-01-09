@@ -50,6 +50,14 @@ The Mistriotis Lab is always looking for talented and qualified new people. Inte
 
 # Gallery
 
+## 2025
+
+{%
+  include figure.html
+  image="images/group-photos/2025/Group-photo-2025.jpg"
+  width="100%"
+%}
+
 ## 2023
 
 {%
