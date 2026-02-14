@@ -1,3 +1,26 @@
+# 2025
+
+- id: doi:10.1007/s44258-025-00071-5
+  image: "images/papers/apl-bioengineering.png"
+  tags:
+    - mechanomedicine
+    - immunoengineering
+    - cell migration
+
+- id: doi:10.3390/ijms262210892
+  image: "images/papers/apl-bioengineering.png"
+  tags:
+    - mCRPC
+    - RNAseq 
+    - clofazimine
+
+- id: doi:10.1038/s41563-025-02269-9
+  image: "images/papers/apl-bioengineering.png"
+  tags:
+    - cytokinesis proteins
+    - confined migration
+    - cancer metastasis
+
 # 2024
 
 - id: doi:10.1063/5.0225569
