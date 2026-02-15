@@ -10,6 +10,9 @@ on:
     paths:
       - "_data/sources.yaml"
 
+permissions:
+  contents: write
+
 jobs:
   update_research:
     name: Auto Cite
