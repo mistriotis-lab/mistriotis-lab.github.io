@@ -1,5 +1,84 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1007/s44258-025-00071-5
+  title: Frontiers in mechanobiology and mechanomedicine
+  authors:
+  - Priscilla Y. Hwang
+  - Panagiotis Mistriotis
+  - Haogang Cai
+  - Longwei Liu
+  - Bo Zhang
+  - Quinton Smith
+  - Jacopo Ferruzzi
+  - Peter Yingxiao Wang
+  - Song Li
+  publisher: Med-X
+  date: '2025-11-28'
+  link: https://doi.org/hbphtj
+  image: images/papers/med-x.png
+  tags:
+  - mechanomedicine
+  - immunoengineering
+  - cell migration
+- id: doi:10.3390/ijms262210892
+  title: Clofazimine Treatment Modulates Key Non-Coding RNAs Associated with Tumor
+    Progression and Drug Resistance in Lethal Prostate Cancer
+  authors:
+  - Sarah Batten
+  - Harish Kumar
+  - Jeremiah Pfitzer
+  - Daniel Chinedu Nweze
+  - Suman Mazumder
+  - Robert D. Arnold
+  - Panagiotis Mistriotis
+  - Taraswi Mitra Ghosh
+  - Amit Kumar Mitra
+  publisher: International Journal of Molecular Sciences
+  date: '2025-11-10'
+  link: https://doi.org/hbh27q
+  image: images/papers/international-journal-of-molecular-sciences.png
+  tags:
+  - mCRPC
+  - RNAseq
+  - clofazimine
+- id: doi:10.1038/s41563-025-02269-9
+  title: Cytoplasmic anillin and Ect2 promote RhoA/myosin II-dependent confined migration
+    and invasion
+  authors:
+  - Avery T. Tran
+  - Emily O. Wisniewski
+  - Panagiotis Mistriotis
+  - Konstantin Stoletov
+  - Maria Parlani
+  - Alice Amitrano
+  - Brent Ifemembi
+  - Se Jong Lee
+  - Kaustav Bera
+  - Yuqi Zhang
+  - Soontorn Tuntithavornwat
+  - Alexandros Afthinos
+  - Alexander Kiepas
+  - Bhawana Agarwal
+  - Sanjiban Nath
+  - John J. Jamieson
+  - Yi Zuo
+  - Daniel Habib
+  - Pei-Hsun Wu
+  - Stuart S. Martin
+  - Sharon Gerecht
+  - Luo Gu
+  - John D. Lewis
+  - Petr Kalab
+  - Peter Friedl
+  - Konstantinos Konstantopoulos
+  publisher: Nature Materials
+  date: '2025-06-26'
+  link: https://doi.org/hbphtk
+  image: images/papers/nature-materials.png
+  tags:
+  - cytokinesis proteins
+  - confined migration
+  - cancer metastasis
 - id: doi:10.1063/5.0225569
   title: 3D confinement alters smooth muscle cell responses to chemical and mechanical
     cues
